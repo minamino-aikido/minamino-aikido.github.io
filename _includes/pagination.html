@@ -1,0 +1,33 @@
+<nav class="pagination">
+  {% if paginator.previous_page > 1%}
+    <a class="previous-link" href="{{ site.baseurl }}/">1</a> ..
+  {% endif %}
+
+  {% if paginator.previous_page %}
+    {% assign page_begin = paginator.previous_page %}
+  {% else %}
+    {% assign page_begin = paginator.page %}
+  {% endif %}
+  {% if paginator.next_page %}
+    {% assign page_end = paginator.next_page %}
+  {% else %}
+    {% assign page_end = paginator.page %}
+  {% endif %}
+
+  {% for count in (page_begin .. page_end) %}
+    {% if count == paginator.page %}
+      <span class="active-link">{{ count }}</span>
+    {% else %}
+      {% if count == 1 %}
+        <a class="count-number" href="{{ site.baseurl }}/">{{ count }}</a>
+      {% else %}
+        <a class="count-number" href="{{ site.baseurl }}/page{{ count }}/">{{ count }}</a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.total_pages > paginator.next_page %}
+    .. <a class="next-link" href="{{ site.baseurl }}/page{{ paginator.total_pages }}/">{{ paginator.total_pages }}</a>
+  {% endif %}
+</nav>
+<!-- vim: set sts=2 sw=2 expandtab: -->

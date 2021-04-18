@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="home">
+  <!-- content is shown for first page only -->
+  {% if site.paginate %}
+    {% unless paginator.previous_page %}
+      {{ content }}
+	{% endunless %}
+  {% endif %}
+
+  {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+  {%- if posts.size > 0 -%}
+    {%- if page.list_title -%}
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
+
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <div class="post-list">
+      {%- for post in posts -%}
+        {%if post.image %}
+          {% assign background_image = post.image %}
+          {% capture background_image_style %}style="background-image: url({{background_image}});"{% endcapture %}
+        {% else %}
+          {% capture background_image_style %}style="background-image: url({{"/assets/no_image.jpg" | relative_url}});"{% endcapture %}
+        {% endif %}
+        <div class="post-item" {{ background_image_style }}>
+          <div class="post-meta">{{ post.date | date: date_format }}</div>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </div>
+      {%- endfor -%}
+    </div>
+
+    {% include pagination.html %}
+  {%- endif -%}
+
+</div>
+<!-- vim: set sts=2 sw=2 expandtab: -->
