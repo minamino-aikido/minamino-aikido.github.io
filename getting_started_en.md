@@ -3,6 +3,8 @@ layout: page
 title: Getting Started
 ---
 
+![right](https://1.bp.blogspot.com/-_Jlv9EAaJBI/WM1ijvCucOI/AAAAAAAAHyk/YWT2KHEVKAA0iZjMzJ3XS4CSwABlvJtSgCEw/s320/kids_aikido.png)
+
 <small>日本語版は [入会案内](getting_started.html) をご覧ください。</small>
 
 This is Aikido class for beginners run by Hachioji-shi Aikido Association.<br />

@@ -50,7 +50,7 @@ layout: default
     {%  else %}
     {%    capture background_image_style %}style="background-image: url({{"/assets/no_image.jpg" | relative_url}});"{% endcapture %}
     {% endif %}
-    <div class="post-item" {{ background_image_style }}>
+    <div class="post-list-item" {{ background_image_style }}>
       <div class="post-meta">{{ post.date | date: date_format }}</div>
       <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
     </div>

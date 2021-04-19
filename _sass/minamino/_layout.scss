@@ -11,7 +11,7 @@
 }
 
 .site-title {
-  @include relative-font-size(1.625);
+  @include relative-font-size(1.5);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
@@ -21,6 +21,9 @@
   &,
   &:visited {
     color: $grey-color-dark;
+  }
+  @include media-query($on-palm) {
+    padding-right: 36px;
   }
 }
 
@@ -109,7 +112,7 @@
 }
 
 .footer-heading {
-  @include relative-font-size(1.125);
+  @include relative-font-size(1);
   margin-bottom: $spacing-unit / 2;
 }
 
@@ -120,7 +123,7 @@
 }
 
 .footer-col-wrapper {
-  @include relative-font-size(0.9375);
+  @include relative-font-size(0.9);
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
@@ -181,16 +184,23 @@
 }
 
 .home-content-with-tweet {
-  max-width: calc(#{$content-width} - (#{$spacing-unit} * 2) - #{$post-item-width});
+  max-width: calc(#{$content-width} - (#{$spacing-unit} * 2) - #{$post-list-item-width});
 }
 
 .tweet-block {
-  width: $post-item-width;
+  width: $post-list-item-width;
+  @include media-query($on-2row) {
+    width: auto;
+  }
 }
 
 .tweet-block > * {
   display: block;
   margin: 0 auto;
+}
+
+img.top {
+  width: 100%;
 }
 
 nav.pagination {
@@ -207,11 +217,11 @@ nav.pagination {
 }
 
 .page-heading {
-  @include relative-font-size(2);
+  @include relative-font-size(1.5);
 }
 
 .post-list-heading {
-  @include relative-font-size(1.75);
+  @include relative-font-size(1.25);
 }
 
 .post-list {
@@ -233,29 +243,39 @@ nav.pagination {
   display: block;
   background-color: rgba(255,255,255,0.8);
   bottom: 0;
-  @include relative-font-size(1.5);
+  @include relative-font-size(1.2);
   margin-top: auto;
 }
 
-.post-item {
+.post-list-item {
   //float: left;
-  width: calc(#{$post-item-width} - 10px);
-  height: 300px;
+  width: calc(#{$post-list-item-width} - 10px);
+  height: $post-list-item-height;
   max-width: 100%;
   display: flex;
   flex-direction: column;
   margin: 5px;
   background-repeat: no-repeat;
   background-position: center;
+  @include media-query($on-1row) {
+    width: 100%;
+  }
 }
 
-@include media-query($on-2row) {
-  .tweet-block { width: auto; }
+p > img, img[alt="center"] {
+  margin: $vspacing-unit auto;
 }
 
-@include media-query($on-1row) {
-  .post-item { width: 100%; }
+img[alt="right"] {
+  margin: $vspacing-unit;
+  float: right;
 }
+
+img[alt="left"] {
+  margin: $vspacing-unit;
+  float: left;
+}
+
 
 /**
  * Posts
@@ -270,40 +290,24 @@ nav.pagination {
 }
 
 .post-title {
-  @include relative-font-size(2.625);
+  @include relative-font-size(2);
   letter-spacing: -1px;
   line-height: 1.25;
-
-  @include media-query($on-laptop) {
-    @include relative-font-size(2.25);
-  }
 }
 
 .post-content {
   margin-bottom: $spacing-unit;
 
   h2 {
-    @include relative-font-size(2);
-
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.75);
-    }
+    @include relative-font-size(1.5);
   }
 
   h3 {
-    @include relative-font-size(1.625);
-
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.375);
-    }
+    @include relative-font-size(1.2);
   }
 
   h4 {
-    @include relative-font-size(1.25);
-
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.125);
-    }
+    @include relative-font-size(1.1);
   }
 }
 /* vim:set sts=2 sw=2 expandtab: */

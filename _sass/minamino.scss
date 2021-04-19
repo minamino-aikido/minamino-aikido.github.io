@@ -22,14 +22,17 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    1020px !default;
-$post-width:	   800px !default;
-$post-item-width:  320px !default;	// (content-width - spacing-unit * 2) / 3
-$scrollbar-offset: 20px !default;
+$content-width:			1020px !default;
+
+$post-width:			800px !default;
+$scrollbar-offset:		20px !default;
+
+$post-list-item-width:  320px !default;	// (content-width - spacing-unit * 2) / 3
+$post-list-item-height: 300px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
-$on-1row:		   calc((#{$post-item-width} + #{$spacing-unit}) * 2) !default;
+$on-1row:		   calc((#{$post-list-item-width} + #{$spacing-unit}) * 2) !default;
 $on-2row:		   calc(#{$content-width} + #{$scrollbar-offset}) !default;
 
 // Use media queries like this:
