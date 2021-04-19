@@ -9,6 +9,7 @@ $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
+$vspacing-unit:	   15px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
@@ -21,10 +22,15 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    1024px !default;
+$content-width:    1020px !default;
+$post-width:	   800px !default;
+$post-item-width:  320px !default;	// (content-width - spacing-unit * 2) / 3
+$scrollbar-offset: 20px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
+$on-1row:		   calc((#{$post-item-width} + #{$spacing-unit}) * 2) !default;
+$on-2row:		   calc(#{$content-width} + #{$scrollbar-offset}) !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -47,5 +53,6 @@ $on-laptop:        800px !default;
 @import
   "minamino/base",
   "minamino/layout",
-  "minamino/syntax-highlighting"
+  "minamino/syntax-highlighting",
+  "user-style"
 ;

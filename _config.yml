@@ -31,6 +31,8 @@ github_username:  aikige
 facebook_username: aikido.minamino
 paginate: 6
 list_title: "Article"
+embed_tweets: "yes"
+embed_ads: "yes"
 
 # Build settings
 #theme: minima
