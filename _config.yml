@@ -33,6 +33,7 @@ paginate: 6
 list_title: "Article"
 embed_tweets: "yes"
 embed_ads: "yes"
+adsense_client_id: ca-pub-9466084318094329
 
 # Build settings
 #theme: minima
