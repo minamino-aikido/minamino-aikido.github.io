@@ -1,6 +1,7 @@
 /**
  * Site header
  */
+
 .site-header {
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
@@ -10,13 +11,21 @@
   position: relative;
 }
 
+.site-header > .wrapper {
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  align-items: center;
+}
+
 .site-title {
   @include relative-font-size(1.5);
   font-weight: 300;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: $title-line-height;
   letter-spacing: -1px;
-  margin-bottom: 0;
-  float: left;
+  margin-top: $vspacing-unit;
+  margin-bottom: $vspacing-unit;
 
   &,
   &:visited {
@@ -28,8 +37,9 @@
 }
 
 .site-nav {
-  float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: $title-line-height * $base-font-size * 1.5;
+  margin-left: auto;
+  text-align: right;
 
   .nav-trigger {
       display: none;
@@ -42,16 +52,14 @@
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
-
+    display: inline-block;
     // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
-    }
+    margin-left: 10px;
   }
 
   @include media-query($on-palm) {
     position: absolute;
-    top: 9px;
+    top: 11px;
     right: $spacing-unit / 2;
     background-color: $background-color;
     border: 1px solid $grey-color-light;
@@ -248,7 +256,6 @@ nav.pagination {
 }
 
 .post-list-item {
-  //float: left;
   width: calc(#{$post-list-item-width} - 10px);
   height: $post-list-item-height;
   max-width: 100%;
@@ -269,11 +276,19 @@ p > img, img[alt^="center"] {
 img[alt^="right"] {
   margin: $vspacing-unit;
   float: right;
+  @include media-query($on-palm) {
+    margin: $vspacing-unit auto;
+    float: none;
+  }
 }
 
 img[alt^="left"] {
   margin: $vspacing-unit;
   float: left;
+  @include media-query($on-palm) {
+    margin: $vspacing-unit auto;
+    float: none;
+  }
 }
 
 
@@ -292,7 +307,7 @@ img[alt^="left"] {
 .post-title {
   @include relative-font-size(2);
   letter-spacing: -1px;
-  line-height: 1.25;
+  line-height: $title-line-height;
 }
 
 .post-content {
