@@ -262,16 +262,16 @@ nav.pagination {
   }
 }
 
-p > img, img[alt="center"] {
+p > img, img[alt^="center"] {
   margin: $vspacing-unit auto;
 }
 
-img[alt="right"] {
+img[alt^="right"] {
   margin: $vspacing-unit;
   float: right;
 }
 
-img[alt="left"] {
+img[alt^="left"] {
   margin: $vspacing-unit;
   float: left;
 }
