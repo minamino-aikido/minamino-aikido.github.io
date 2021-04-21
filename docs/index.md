@@ -1,5 +1,5 @@
 ---
-title: About Jekyll Theme - minamino-aikido
+title: Documentation for the Jekyll Theme - minamino-aikido
 layout: page
 ---
 
@@ -12,9 +12,9 @@ The theme minamino-aikido ([github](https://github.com/aikige/minamino-aikido)) 
 * Support for [Google AdSense](https://www.google.com/adsense).
 * Image alignment control for markdown.
 
-## Layouts / Screenshot
+## Layouts 
 
-3 types of layouts are exist:
+3 types of layouts are available:
 
 * Home - used as top index of the site.
 * Page - used for pages.

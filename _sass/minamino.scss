@@ -35,7 +35,7 @@ $card-unit-spacing: 5px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 $on-1row:          calc((#{$card-unit-width} + #{$spacing-unit}) * 2) !default;
-$on-2row:          calc(#{$content-width}) !default;
+$on-2row:          calc(#{$content-width} - 1px) !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
