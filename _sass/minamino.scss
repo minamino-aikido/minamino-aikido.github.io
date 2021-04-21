@@ -10,7 +10,7 @@ $base-line-height: 1.5 !default;
 $title-line-height: 1.25 !default;
 
 $spacing-unit:     30px !default;
-$vspacing-unit:	   15px !default;
+$vspacing-unit:    15px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
@@ -23,18 +23,19 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:			1020px !default;
+$content-width:     1020px !default;
 
-$post-width:			800px !default;
-$scrollbar-offset:		20px !default;
+$post-width:        800px !default;
 
-$post-list-item-width:  320px !default;	// (content-width - spacing-unit * 2) / 3
-$post-list-item-height: 300px !default;
+// Content card size
+$card-unit-width:   calc((#{$content-width} - #{$spacing-unit} * 2) / 3) !default;
+$card-unit-height:  300px !default;
+$card-unit-spacing: 5px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
-$on-1row:		   calc((#{$post-list-item-width} + #{$spacing-unit}) * 2) !default;
-$on-2row:		   calc(#{$content-width} + #{$scrollbar-offset}) !default;
+$on-1row:          calc((#{$card-unit-width} + #{$spacing-unit}) * 2) !default;
+$on-2row:          calc(#{$content-width}) !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -60,3 +61,4 @@ $on-2row:		   calc(#{$content-width} + #{$scrollbar-offset}) !default;
   "minamino/syntax-highlighting",
   "user-style"
 ;
+/* vim:set sts=2 sw=2 expandtab: */

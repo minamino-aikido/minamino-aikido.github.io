@@ -13,8 +13,6 @@
 
 .site-header > .wrapper {
   display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
   justify-content: center;
   align-items: center;
 }
@@ -116,7 +114,7 @@
  */
 .site-footer {
   border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
+  padding: $vspacing-unit 0;
 }
 
 .footer-heading {
@@ -185,26 +183,29 @@
 
 .home-content-container {
   display: flex;
-  flex-wrap: wrap;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
   justify-content: center;
-}
-
-.home-content-with-tweet {
-  max-width: calc(#{$content-width} - (#{$spacing-unit} * 2) - #{$post-list-item-width});
-}
-
-.tweet-block {
-  width: $post-list-item-width;
   @include media-query($on-2row) {
-    width: auto;
+    display: block;
   }
 }
 
-.tweet-block > * {
-  display: block;
+.home-content-with-tweet {
+  flex: 2;
+  max-width: calc(#{$card-unit-width} * 2);
   margin: 0 auto;
+  @include media-query($on-2row) {
+    flex: 0;
+  }
+}
+
+.tweet-block {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  @include media-query($on-2row) {
+    flex: 0;
+    width: 100%;
+  }
 }
 
 img.top {
@@ -221,7 +222,7 @@ nav.pagination {
  */
 .page-content {
   padding: $vspacing-unit 0;
-  flex: 1;
+  //flex: 1;
 }
 
 .page-heading {
@@ -241,6 +242,20 @@ nav.pagination {
   justify-content: center;
 }
 
+.post-list-item {
+  width: calc(#{$card-unit-width} - (#{$card-unit-spacing} * 2));
+  height: $card-unit-height;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: $card-unit-spacing;
+  background-repeat: no-repeat;
+  background-position: center;
+  @include media-query($on-1row) {
+    width: 100%;
+  }
+}
+
 .post-meta {
   font-size: $small-font-size;
   background-color: rgba(255,255,255,0.8);
@@ -253,20 +268,6 @@ nav.pagination {
   bottom: 0;
   @include relative-font-size(1.2);
   margin-top: auto;
-}
-
-.post-list-item {
-  width: calc(#{$post-list-item-width} - 10px);
-  height: $post-list-item-height;
-  max-width: 100%;
-  display: flex;
-  flex-direction: column;
-  margin: 5px;
-  background-repeat: no-repeat;
-  background-position: center;
-  @include media-query($on-1row) {
-    width: 100%;
-  }
 }
 
 p > img, img[alt^="center"] {
