@@ -11,7 +11,7 @@ title: 入会案内
 
 ## 入会手続き
 
-Facebookページ</a>のメッセージ、ないしメール &lt;minamino@seishin-kan.com&gt; にてお問い合わせ下さい。
+[Facebookページ](https://www.facebook.com/aikido.minamino)のメッセージ、ないしメール &lt;minamino@seishin-kan.com&gt; にてお問い合わせ下さい。
 
 ## 指導者
 

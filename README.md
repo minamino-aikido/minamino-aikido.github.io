@@ -9,7 +9,7 @@ This project is also used as source of the website.
 
 * Block based, responsive design.
 * Support for embedded tweets.
-* Support for advertising block.
+* Support for [Google AdSense](https://www.google.com/adsense).
 
 For detail about theme, please refer [About Theme](docs/index.md).
 
