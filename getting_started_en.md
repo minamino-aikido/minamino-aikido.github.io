@@ -46,7 +46,7 @@ Changes will be announced to members though E-mail, [Facebook Page](https://www.
 
 We are using Dojo in Hachioji-shi Minamino Junior High School for lesson.
 
-<iframe allowfullscreen="" frameborder="0" height="300" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1621.4060593146671!2d139.32052011974042!3d35.63235799567662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDM3JzU2LjUiTiAxMznCsDE5JzE3LjYiRQ!5e0!3m2!1sja!2sjp!4v1489075208009" style="border: 0;" width="300"></iframe><br />
+<iframe allowfullscreen="" frameborder="0" height="300" width="300" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1621.4060593146671!2d139.32052011974042!3d35.63235799567662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDM3JzU2LjUiTiAxMznCsDE5JzE3LjYiRQ!5e0!3m2!1sja!2sjp!4v1489075208009" style="display:block;border:0;margin:0 auto;"></iframe>
 
 ## Membership / Lesson Fee
 

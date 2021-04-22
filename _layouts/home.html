@@ -35,15 +35,15 @@ layout: default
   {%  assign posts = site.posts %}
   {% endif %}
 
-  {% if posts.size > 0 -%}
-  {%  if page.list_title -%}
+  {% if posts.size > 0 %}
+  {%  if page.list_title %}
   <h2 class="post-list-heading">{{ page.list_title }}</h2>
-  {%  endif -%}
+  {%  endif %}
 
-  {%  assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+  {%  assign date_format = site.minamino.date_format | default: "%F" %}
 
   <div class="post-list">
-    {% for post in posts -%}
+    {% for post in posts %}
     {%  if post.image %}
     {%    assign background_image = post.image %}
     {%    capture background_image_style %}style="background-image: url({{background_image}});"{% endcapture %}

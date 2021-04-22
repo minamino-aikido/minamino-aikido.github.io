@@ -29,8 +29,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: AikidoMinamino
 github_username:  aikige
 facebook_username: aikido.minamino
+timezone: Asia/Tokyo
 paginate: 6
-list_title: "Article"
+tagline: 入門・初心者向け「市民のための合気道教室」
 embed_tweets: "yes"
 embed_ads: "yes"
 adsense_client_id: ca-pub-9466084318094329
