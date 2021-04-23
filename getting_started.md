@@ -27,9 +27,14 @@ title: 入会案内
 
 * 子供＋大人：18:40～19:30
 
+<!--
+* 子供：18:40～19:25
+* 大人: 19:30～20:30
+-->
+
 [Google Calendar](https://calendar.google.com/calendar/embed?src=minamino.aikido%40gmail.com) で予定を稽古共有していますのでそちらもご利用ください。
 
-関連記事: [合気道教室の予定を自分のGoogle Calenderに追加する方法](2017/11/25/google-calender.html)
+関連記事: [合気道教室の予定を自分のGoogle Calendarに追加する方法]({% post_url 2017-11-26-google-calender %})
 
 ## 稽古場所
 
@@ -78,7 +83,7 @@ title: 入会案内
 
 道着は [楽天市場](http://goo.gl/MY5QuT) など、もっと安く手に入るオンラインショップもありますのでそちらもご検討ください。
 
-関連記事： [合気道をするときの服装について](2017/04/02/blog-post.html)
+関連記事： [合気道をするときの服装について]({% post_url 2017-04-02-blog-post %})
 
 ## 一般向け昇級審査
 
