@@ -34,7 +34,7 @@ title: 入会案内
 
 [Google Calendar](https://calendar.google.com/calendar/embed?src=minamino.aikido%40gmail.com) で予定を稽古共有していますのでそちらもご利用ください。
 
-関連記事: [合気道教室の予定を自分のGoogle Calendarに追加する方法]({{site.base_url}}{% post_url 2017-11-26-google-calender %})
+関連記事: [合気道教室の予定を自分のGoogle Calendarに追加する方法]({{site.baseurl}}{% post_url 2017-11-26-google-calender %})
 
 ## 稽古場所
 
@@ -83,7 +83,7 @@ title: 入会案内
 
 道着は [楽天市場](http://goo.gl/MY5QuT) など、もっと安く手に入るオンラインショップもありますのでそちらもご検討ください。
 
-関連記事： [合気道をするときの服装について]({{site.base_url}}{% post_url 2017-04-02-blog-post %})
+関連記事： [合気道をするときの服装について]({{site.baseurl}}{% post_url 2017-04-02-blog-post %})
 
 ## 一般向け昇級審査
 
