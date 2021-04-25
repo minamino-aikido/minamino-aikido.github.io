@@ -58,6 +58,7 @@ exclude:
  - .sass-cache/
  - .jekyll-cache/
  - gemfiles/
+ - Dockerfile
  - Gemfile
  - Gemfile.lock
  - node_modules/
@@ -68,3 +69,6 @@ exclude:
  - test/
  - LICENSE
  - README.md
+ - "*.bak"
+ - "*.bat"
+ - "*.sh"
