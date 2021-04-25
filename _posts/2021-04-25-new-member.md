@@ -4,7 +4,7 @@ image: https://1.bp.blogspot.com/-NoOb3CBukeM/YIWNAVxiJAI/AAAAAAAAkBI/N2MzgLQ0ve
 description: 新型コロナウイルスウイルス対策の一環として、子供クラスは新規会員募集を停止してきましたが、2021年4月に欠員ができたため、新規会員の受付を再開します
 ---
 
-![演武](https://1.bp.blogspot.com/-NoOb3CBukeM/YIWNAVxiJAI/AAAAAAAAkBI/N2MzgLQ0ve8bQCtXW9ydo7Z8VkHaSPLbwCLcBGAsYHQ/s320/application_open.jpg)
+![right:演武](https://1.bp.blogspot.com/-NoOb3CBukeM/YIWNAVxiJAI/AAAAAAAAkBI/N2MzgLQ0ve8bQCtXW9ydo7Z8VkHaSPLbwCLcBGAsYHQ/s320/application_open.jpg)
 
 新型コロナウイルスウイルス対策の一環として、子供クラスは新規会員募集を停止してきましたが、
 2021年4月に欠員ができたため、新規会員の受付を再開します※
