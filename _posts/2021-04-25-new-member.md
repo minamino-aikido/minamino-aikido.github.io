@@ -1,10 +1,10 @@
 ---
 title: 子供クラスの新規会員受付を再開します
-image: https://1.bp.blogspot.com/-cFvXllNPsNY/YIVJvJYg-5I/AAAAAAAAkAY/4_emSX0p5SUV9mw0YyQ_uBSJ1aUyhcw-wCPcBGAsYHg/w400-h300/IMG_Gothic_20210425_193712_processed%257E2.jpg
+image: https://1.bp.blogspot.com/-NoOb3CBukeM/YIWNAVxiJAI/AAAAAAAAkBI/N2MzgLQ0ve8bQCtXW9ydo7Z8VkHaSPLbwCLcBGAsYHQ/s320/application_open.jpg
 description: 新型コロナウイルスウイルス対策の一環として、子供クラスは新規会員募集を停止してきましたが、2021年4月に欠員ができたため、新規会員の受付を再開します
 ---
 
-![演武](https://1.bp.blogspot.com/-cFvXllNPsNY/YIVJvJYg-5I/AAAAAAAAkAY/4_emSX0p5SUV9mw0YyQ_uBSJ1aUyhcw-wCPcBGAsYHg/w400-h300/IMG_Gothic_20210425_193712_processed%257E2.jpg)
+![演武](https://1.bp.blogspot.com/-NoOb3CBukeM/YIWNAVxiJAI/AAAAAAAAkBI/N2MzgLQ0ve8bQCtXW9ydo7Z8VkHaSPLbwCLcBGAsYHQ/s320/application_open.jpg)
 
 新型コロナウイルスウイルス対策の一環として、子供クラスは新規会員募集を停止してきましたが、
 2021年4月に欠員ができたため、新規会員の受付を再開します※
