@@ -40,6 +40,8 @@ adsense_client_id: ca-pub-9466084318094329
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+# List of pages shown in header.
+# If you do not specify them, list of pages will be shown in header.
 # header_pages:
 #   - about.md
 #   - contacts.md
