@@ -3,6 +3,8 @@ layout: page
 title: 連絡先 / Contact
 ---
 
+![right:Contacts](https://1.bp.blogspot.com/-ZlJ7SarWx9M/YIVSLw67e0I/AAAAAAAAkAs/BJJQhZTGUs4Y1TzXVOGWVfbcUHWv0RLEwCLcBGAsYHQ/s320/computer_email.png)
+
 以下のいずれかの方法でご連絡ください。<br />
 Following contacts are available:
 
