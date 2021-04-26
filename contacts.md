@@ -5,7 +5,7 @@ title: 連絡先 / Contact
 
 ![right:Contacts](https://1.bp.blogspot.com/-ZlJ7SarWx9M/YIVSLw67e0I/AAAAAAAAkAs/BJJQhZTGUs4Y1TzXVOGWVfbcUHWv0RLEwCLcBGAsYHQ/s320/computer_email.png)
 
-以下のいずれかの方法でご連絡ください。<br />
+見学のご希望、会員の方の出欠の連絡などは以下で受け付けています。<br />
 Following contacts are available:
 
 * 電話/Tel（[清心館道場](http://www.seishin-kan.com/)で受付）: 042-675-6808
