@@ -192,19 +192,19 @@
 .home-content-with-tweet {
   flex: 2;
   max-width: calc(#{$card-unit-width} * 2);
-  margin: 0 auto;
   @include media-query($on-2row) {
     flex: 0;
+    margin: 0 auto;
   }
 }
 
 .tweet-block {
   flex: 1;
-  display: flex;
-  justify-content: center;
+  text-align: center;
   @include media-query($on-2row) {
     flex: 0;
-    width: 100%;
+    margin: 0 auto;
+    padding: 0 10px;
   }
 }
 
