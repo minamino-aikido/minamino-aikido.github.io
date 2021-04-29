@@ -1,1 +1,1 @@
-bundle exec jekyll serve --host 0.0.0.0 --incremental --no-watch
+bundle exec jekyll serve --drafts --host 0.0.0.0 --incremental --no-watch 

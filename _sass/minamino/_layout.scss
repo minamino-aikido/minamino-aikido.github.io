@@ -240,9 +240,10 @@ nav.pagination {
   margin-left: 0;
   display: flex;
   flex-wrap: wrap;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
   justify-content: center;
+  @include media-query($on-1row) {
+    display: block;
+  }
 }
 
 .post-list-item {
