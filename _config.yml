@@ -44,7 +44,6 @@ amazon_ad_urls: ['//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=F7F7F7&IS2=1&
 #theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-youtube
 header_pages:
   - about.md
   - contacts.md

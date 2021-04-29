@@ -38,13 +38,13 @@ image: https://1.bp.blogspot.com/-cFvXllNPsNY/YIVJvJYg-5I/AAAAAAAAkAY/4_emSX0p5S
 
 <small>※以下の動画で山口清吾師範が最初にかけている技が隅落としです（[Aikido Yamaguchi Dojo Archive](https://www.youtube.com/channel/UCNEKj6gqVlg9e8em05DB-Lw/)より）</small>
 
-{% youtube "https://youtu.be/33pe6pnw9C8" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/33pe6pnw9C8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 これは柔道の「[隅落とし](https://ja.wikipedia.org/wiki/%E9%9A%85%E8%90%BD)」と基本的には同じ技法です。
 
 <small>※柔道の技をかけている動作は以下の動画がわかりやすいかと思います（[講道館公式チャンネル](https://www.youtube.com/channel/UCtF6tu7GuZYkZzht5MIv8UQ)より）</small>
 
-{% youtube "https://youtu.be/lLU9wv52ni0" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lLU9wv52ni0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 柔道では「隅落とし」は別名「空気投げ」と呼ばれており、
 技の一つとして型には残っているものの、
