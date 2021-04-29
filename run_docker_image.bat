@@ -6,7 +6,7 @@ if "x%~1" == "x" goto run
 goto %~1
 
 :run
-docker run -it --rm -v %CD%:/srv/jekyll --name %DOCKER_CONTAINER% -p 4000:4000 %DOCKER_IMAGE% bundle exec sh ./run.sh
+docker run -it --rm -v %CD%:/srv/jekyll --name %DOCKER_CONTAINER% -p 4000:4000 %DOCKER_IMAGE% sh ./run.sh
 goto :eof
 
 :bash

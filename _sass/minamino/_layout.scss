@@ -115,11 +115,14 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $vspacing-unit 0;
+  p, ul, h1, h2, h3 {
+    margin-top: $vspacing-unit / 2;
+    margin-bottom: $vspacing-unit / 2;
+  }
 }
 
 .footer-heading {
   @include relative-font-size(1);
-  margin-bottom: $spacing-unit / 2;
 }
 
 .contact-list,
@@ -325,5 +328,13 @@ img[alt^="left"] {
   h4 {
     @include relative-font-size(1.1);
   }
+}
+
+/**
+ * Advertisement
+ */
+.advertise {
+  display: flex;
+  text-align: center;
 }
 /* vim:set sts=2 sw=2 expandtab: */

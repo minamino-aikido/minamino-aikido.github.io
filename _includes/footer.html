@@ -6,14 +6,17 @@
       <div class="footer-col footer-col-1">
 		<h2 class="footer-heading">{{ site.title | escape }}</h2>
         <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          {%- if site.author -%}
+          <li class="p-name">{{ site.author | escape }}</li>
+          {%- endif -%}
+          {%- if site.email -%}
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {%- endif -%}
+          {% for page in site.pages %}
+          {%  if page.path == 'sitemap.html' %}
+          <li><a href="{{ site.baseurl }}/{{ page.path }}">Site Map</a></li>
+          {%  endif %}
+          {% endfor %}
         </ul>
       </div>
 

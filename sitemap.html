@@ -1,0 +1,26 @@
+---
+layout: page
+title: Site Map
+---
+
+<h2><a href="{{site.baseurl}}{% link index.html %}">Top Page</a></h2>
+
+<h2>List of Pages</h2>
+
+<ul>
+  {% assign paths = site.pages | map: "path" %}
+  {% for path in paths %}
+  {%  assign my_page = site.pages | where: "path", path | first %}
+  {%  if my_page.title %}
+  <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+  {%  endif %}
+  {% endfor %}
+</ul>
+
+<h2>Blog Posts</h2>
+
+<ul>
+  {% for post in site.posts %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+  {% endfor %}
+</ul>
