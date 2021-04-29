@@ -329,6 +329,11 @@ img[alt^="left"] {
   h4 {
     @include relative-font-size(1.1);
   }
+
+  iframe {
+    display: block;
+    margin: 0 auto;
+  }
 }
 
 /**
