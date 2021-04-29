@@ -23,8 +23,8 @@ layout: default
   {%  include disqus_comments.html %}
   {% endif %}
 
-  {% if site.embed_ads %}
-  {%  include advertise.html %}
+  {% if site.embed_adsense %}
+  {%  include google-ad-block.html %}
   {% endif %}
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
