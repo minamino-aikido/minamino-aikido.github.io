@@ -194,7 +194,7 @@
 
 .home-content-with-tweet {
   flex: 2;
-  max-width: calc(#{$card-unit-width} * 2);
+  max-width: $card-unit-width * 2;
   @include media-query($on-2row) {
     flex: 0;
     margin: 0 auto;
@@ -247,7 +247,7 @@ nav.pagination {
 }
 
 .post-list-item {
-  width: calc(#{$card-unit-width} - (#{$card-unit-spacing} * 2));
+  width: $card-unit-width - ($card-unit-spacing * 2);
   height: $card-unit-height;
   max-width: 100%;
   display: flex;
@@ -341,5 +341,17 @@ img[alt^="left"] {
  */
 .advertise {
   text-align: center;
+}
+
+/**
+ * YouTube
+ */
+.youtube {
+  width: 560px;
+  height: 315px;
+  @include media-query(560px + $spacing-unit) {
+    width: 80vw;
+    height: 45vw;
+  }
 }
 /* vim:set sts=2 sw=2 expandtab: */

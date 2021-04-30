@@ -28,14 +28,15 @@ $content-width:     1020px !default;
 $post-width:        800px !default;
 
 // Content card size
-$card-unit-width:   calc((#{$content-width} - #{$spacing-unit} * 2) / 3) !default;
+$card-unit-width:   (($content-width - ($spacing-unit * 2)) / 3) !default;
 $card-unit-height:  300px !default;
 $card-unit-spacing: 5px !default;
 
+// Threshold for responsive design
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
-$on-1row:          calc((#{$card-unit-width} + #{$spacing-unit}) * 2) !default;
-$on-2row:          calc(#{$content-width} - 1px) !default;
+$on-1row:          ($card-unit-width * 2 + $spacing-unit - 1px) !default;
+$on-2row:          ($content-width - 1px) !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
