@@ -256,7 +256,7 @@ nav.pagination {
   background-repeat: no-repeat;
   background-position: center;
   @include media-query($on-1row) {
-    width: 100%;
+    width: auto;
   }
 }
 
