@@ -1,6 +1,5 @@
 ---
 title: 帯の結び方
-image: /assets/img/Obi_Step5.png
 description: 合気道の帯の結び方を解説します。
 ---
 
