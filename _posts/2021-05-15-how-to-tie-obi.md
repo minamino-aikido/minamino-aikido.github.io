@@ -1,9 +1,10 @@
 ---
-title: 帯の結び方
+title: 帯の結び方について
+image: /minamino-aikido/assets/img/Obi_Step5.png
 description: 合気道の帯の結び方を解説します。
 ---
 
-合気道の帯の結び方についてわかりにくいという意見を時々聞きますので、わかりやすい図を作ってみました。
+合気道の帯の結び方がわかりにくいという意見を時々聞きますので、わかりやすい図を作ってみました。
 
 ## 基本の結び方
 
@@ -22,6 +23,12 @@ description: 合気道の帯の結び方を解説します。
 5. 左右に引っ張ると出来上がり<br />
     ![center]({{'/assets/img/Obi_Step5.png' | relative_url}})
 
+合気道の場合は、帯が下向きのハの字になるように処理するのが普通です。
+
+## おすすめの動画
+
+図ではわかりにくい方向けに、YouTube にある参考になる動画をいくつかあげておきます。
+
 子供に巻いて上げる場合の手順は以下の動画がわかりやすいです。
 
 <iframe class="youtube" src="https://www.youtube.com/embed/OjQt9FALJ5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -29,8 +36,6 @@ description: 合気道の帯の結び方を解説します。
 自分から見た視点の動画は次の動画がわかりやすいです：
 
 <iframe class="youtube" src="https://www.youtube.com/embed/kRnIJyOP3J4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-合気道の場合は、帯が下向きのハの字になるように処理するのが普通です。
 
 ## ほどけにくい結び方
 
@@ -40,3 +45,6 @@ description: 合気道の帯の結び方を解説します。
 いろいろな解説がありますが、私と同じ手順で結んでいる動画を見つけましたので引用しておきます。
 
 <iframe class="youtube" src="https://www.youtube.com/embed/LhpSPALRXkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+私の場合、袴をはく場合にはこちらの結び方ではなく、結び目を小さくしやすい本結びをしています。
+
