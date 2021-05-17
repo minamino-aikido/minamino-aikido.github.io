@@ -50,3 +50,6 @@ description: 合気道の帯の結び方を解説します。
 
 私の場合、袴をはく場合にはこちらの結び方ではなく、結び目を小さくしやすい本結びをしています。
 
+---
+
+今回作成した図の原本はGitHubで[公開しています](https://github.com/aikige/svgSimpleImages/tree/main/Obi)。
