@@ -42,6 +42,8 @@ description: 合気道の帯の結び方を解説します。
 本結びの帯の端を、下に巻いている帯の間に挟み込むようにすると摩擦が増えて帯がほどけにくくなります。
 私が普段、袴をはかない場合にしている帯の結び方はこちらのやりかたです。
 
+![center]({{'/assets/img/Obi_Alt_Step4.png' | relative_url}})
+
 いろいろな解説がありますが、私と同じ手順で結んでいる動画を見つけましたので引用しておきます。
 
 <iframe class="youtube" src="https://www.youtube.com/embed/LhpSPALRXkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
