@@ -12,19 +12,14 @@ description: 合気道の帯の結び方を解説します。
 
 以下のような手順になります
 
+![center]({{'/assets/img/Obi.png' | relative_url}})
+
 1. 帯は二重に巻きます。
 1. 一番上の帯で下の帯２本をすくいます<br />
-    ![center]({{'/assets/img/Obi_Step0.png' | relative_url}})
 1. すくい上げた帯を下に垂らします<br />
-    ![center]({{'/assets/img/Obi_Step1.png' | relative_url}})
 1. 今度は一番下の帯を上に持っていきます<br />
-    ![center]({{'/assets/img/Obi_Step2.png' | relative_url}})
 1. 引き上げた帯を輪っかになっている部分に差し込みます<br />
-    ![center]({{'/assets/img/Obi_Step3.png' | relative_url}})
-1. 結び目の構造はこんな感じになります<br />
-    ![center]({{'/assets/img/Obi_Step4.png' | relative_url}})
 1. 左右に引っ張ると出来上がり<br />
-    ![center]({{'/assets/img/Obi_Step5.png' | relative_url}})
 
 合気道の場合は、帯が下向きのハの字になるように処理するのが標準的です。
 
