@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "/minamino-aikido" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AikidoMinamino
-github_username:  aikige
+github_username:  minamino-aikido
 facebook_username: aikido.minamino
 timezone: Asia/Tokyo
 paginate: 6
