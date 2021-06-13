@@ -5,9 +5,9 @@ title: 入会案内
 
 ![right](https://1.bp.blogspot.com/-_Jlv9EAaJBI/WM1ijvCucOI/AAAAAAAAHyk/YWT2KHEVKAA0iZjMzJ3XS4CSwABlvJtSgCEw/s320/kids_aikido.png)
 
-<small>Please check [Getting Started](getting_started_en.html) for English version of information.</small>
+<small>Please check [Getting Started](en/getting_started.html) for English version of information.</small>
 
-本教室は（公益財団法人）合気会に所属し、（NPO法人）八王子市体育協会に加盟する八王子市合気道連盟が主催し、八王子市における合気道の普及のために開催する入門・初心者向けの合気道教室です。
+本教室は公益財団法人合気会に所属し、NPO法人八王子市体育協会に加盟する八王子市合気道連盟が主催し、八王子市における合気道の普及のために開催する入門・初心者向けの合気道教室です。
 
 ## 入会手続き
 
@@ -81,11 +81,11 @@ title: 入会案内
 
 ## 一般向け昇級審査
 
-本教室は、入門・初心者向けの講座で、希望者には8級〜6級の免状を審査の上発行することが可能です。<br />
+本教室は、入門者および初心者向けの講座です。希望者には8級〜6級の免状を審査の上発行することが可能です。<br />
 免状は八王子市合気道連盟により発行され、**八王子市合気道連盟加盟道場でのみ有効<sub>※</sub>です。**<br />
-<span style="color:blue">※限定的な資格になるため、現在のところ一般向け教室で級の発行実績はありません。</span><br />
+<span style="color:blue">※限定的な資格になるため、現在のところ大人クラスで級の発行実績はありません。</span><br />
 
-それ以上の級、段位を希望される方、合気会公認の正式な級・段の発行を希望される方は近隣の（公益財団法人）合気会公認道場への入会をお願いします。<br />
+それ以上の級、段位を希望される方、合気会公認の正式な級・段の発行を希望される方は近隣の公益財団法人合気会公認道場への入会をお願いします。<br />
 
 ## 小学生向け昇級審査
 
