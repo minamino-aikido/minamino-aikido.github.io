@@ -5,8 +5,6 @@ title: 入会案内
 
 ![right](https://1.bp.blogspot.com/-_Jlv9EAaJBI/WM1ijvCucOI/AAAAAAAAHyk/YWT2KHEVKAA0iZjMzJ3XS4CSwABlvJtSgCEw/s320/kids_aikido.png)
 
-<small>Please check [Getting Started](en/getting_started.html) for English version of information.</small>
-
 本教室は公益財団法人合気会に所属し、NPO法人八王子市体育協会に加盟する八王子市合気道連盟が主催し、八王子市における合気道の普及のために開催する入門・初心者向けの合気道教室です。
 
 ## 入会手続き

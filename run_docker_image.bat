@@ -2,7 +2,7 @@ set DOCKER_IMAGE=jekyll-env-minamino
 set DOCKER_CONTAINER=jekyll-env-minamino
 docker build -t %DOCKER_IMAGE% .
 
-if "x%~1" == "x" goto run
+if "x%~1" == "x" goto bash
 goto %~1
 
 :run
