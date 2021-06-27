@@ -16,7 +16,7 @@ description: 帯結びの画像を応用して名刺のテンプレートを作�
 * [裏面](/assets/template/Card_Obi_02_Back.svg)
 
 テンプレートは、55mm x 91mm の日本の標準名刺サイズに対して、周囲3mmの [裁ち落とし領域](https://www.nik-prt.co.jp/tech/dtp/size/) がついています（つまり、61mm x 97mmの用紙サイズです）。
-電子入稿を想定しているので、[トンボ](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%9C_(%E5%8D%B0%E5%88%B7) はついていません。
+電子入稿を想定しているので、[トンボ](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%9C_(%E5%8D%B0%E5%88%B7)) はついていません。
 [ラクスル](https://raksul.com/) であれば問題なくオンデマンド印刷できることを確認済みです。
 
 ## オンデマンド印刷する場合の注意
