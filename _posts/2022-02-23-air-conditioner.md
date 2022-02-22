@@ -1,6 +1,6 @@
 ---
 title: 空調がついています
-image: /assets/img/2021
+image: /assets/img/2021_Aircon.png
 description: 2021年春よりエアコンが導入されています
 ---
 
