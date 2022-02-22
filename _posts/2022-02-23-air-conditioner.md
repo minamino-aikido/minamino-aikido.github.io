@@ -1,6 +1,6 @@
 ---
 title: 2021年春に空調がつきました
-image: /assets/img/2021_Aircon.png
+image: /assets/img/2021_Aircon.jpg
 description: 道場にエアコンがつき、稽古環境が大幅に改善しました
 ---
 
