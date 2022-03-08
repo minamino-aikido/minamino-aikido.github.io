@@ -26,7 +26,7 @@ title: 入会案内
 
 [Google Calendar](https://calendar.google.com/calendar/embed?src=minamino.aikido%40gmail.com) で予定を稽古共有していますのでそちらもご利用ください。
 
-関連記事: [合気道教室の予定を自分のGoogle Calendarに追加する方法]({{site.baseurl}}{% post_url 2017-11-26-google-calender %})
+関連記事: [合気道教室の予定を自分のGoogle Calendarに追加する方法]({{site.baseurl}}{% post_url 2017-11-26-google-calendar %})
 
 ## 稽古場所
 
