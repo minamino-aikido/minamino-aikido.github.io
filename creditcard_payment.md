@@ -34,7 +34,7 @@ title: 運営費のクレジットカード払いについて
 
 ### 決済システムとシステム仕様に伴う運用方法
 
-[supported cards](/assets/img/FA_eMoney___Credit_card_logo-03.png)
+![supported cards](/assets/img/FA_eMoney___Credit_card_logo-03.png)
 
 1. 請求には [square](https://squareup.com/) という決済システムの、定期請求書（自動引き落とし可）サービスを利用しています。
 1. 利用される方は口頭・メールなどでお知らせください。
