@@ -6,7 +6,7 @@ description: 電子領収書のシステムを Square に変更します。
 
 ![Square](/assets/img/square.02.png)
 
-関係者にはメールなどでアナウンスしている通り、クレジットカードによるキャッシュレス決済試験導入に伴い、電子領収書のシステムを [LOYVERSE](https://loyverse.com/jp) から、クレジットカード決済提供元の [Square](https://squareup.com) に変更します。
+関係者にはメールなどでアナウンスしている通り、クレジットカードによるキャッシュレス決済試験導入に伴い、電子領収書発行のシステムを [LOYVERSE](https://loyverse.com/jp) から、クレジットカード決済提供元の [Square](https://squareup.com) に変更します。
 
 電子領収書のメールが迷惑メールとして扱われないよう、以下のドメインからのメールをフィルタしないように設定をお願いします。
 
