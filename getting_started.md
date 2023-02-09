@@ -105,7 +105,9 @@ title: 入会案内
 
 道着は [楽天市場](http://goo.gl/MY5QuT) など、もっと安く手に入るオンラインショップもありますのでそちらもご検討ください。
 
-関連記事： [合気道をするときの服装について]({{site.baseurl}}{% post_url 2017-04-02-blog-post %})
+関連記事：
+* [合気道をするときの服装について]({{site.baseurl}}{% post_url 2017-04-02-blog-post %})
+* [おすすめの道着]({{site.baseurl}}{% post_url 2022-09-11-recommended-dogi %})
 
 ## 一般向け昇級審査
 
