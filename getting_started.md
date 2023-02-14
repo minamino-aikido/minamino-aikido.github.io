@@ -92,7 +92,6 @@ title: 入会案内
 
 * 現金
 * 銀行振込（手数料は支払元負担）
-* [Pring による送金]({{site.baseurl}}{% post_url 2022-03-08-pring %})
 
 また、現在クレジットカードによる月次定額払いを実験導入しています。
 詳細は「[運営費のクレジットカード払いについて](creditcard_payment.html)」を参照してください。
@@ -108,6 +107,7 @@ title: 入会案内
 関連記事：
 * [合気道をするときの服装について]({{site.baseurl}}{% post_url 2017-04-02-blog-post %})
 * [おすすめの道着]({{site.baseurl}}{% post_url 2022-09-11-recommended-dogi %})
+* [帯の結び方について]({{site.baseurl}}{% post_url 2021-05-15-how-to-tie-obi %})
 
 ## 一般向け昇級審査
 
