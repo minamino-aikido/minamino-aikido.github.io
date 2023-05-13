@@ -2,7 +2,10 @@
 layout: post
 title: LINEオープンチャット 
 description: みなみ野合気道教室のLINEオープンチャットがありますので、ご利用ください
+image: /assets/img/line_open_chat.png
 ---
+
+![Open Chat Image]({{site.baseurl}}/assets/img/line_open_chat.png)
 
 [OpenChat]:https://guide.line.me/ja/services/openchat.html
 
