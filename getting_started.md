@@ -30,7 +30,9 @@ title: 入会案内
 稽古時間：
 
 * 子供：18:40～19:25
+<!--
     * 注意: 人数制限の関係で現在子供クラスの新規入会は受け付けていません
+-->
 * 大人: 19:30～20:30
 
 [Google Calendar](https://calendar.google.com/calendar/embed?src=minamino.aikido%40gmail.com) で予定を稽古共有していますのでそちらもご利用ください。
