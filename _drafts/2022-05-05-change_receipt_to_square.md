@@ -1,7 +1,7 @@
 ---
 title: 電子領収書システムの変更
 image: /assets/img/square.02.png
-description: 電子領収書のシステムを Square に変更します。
+description: キャッシュレス対応として Square を導入します。
 ---
 
 ![Square](/assets/img/square.02.png)
