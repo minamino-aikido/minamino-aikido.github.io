@@ -7,7 +7,7 @@ image: /assets/img/loyverse-dashboard-iphone.png
 
 <img style="width:50%" src="/assets/img/loyverse-dashboard-iphone.png">
 
-[クレジットカード決済導入]({{site.baseurl}}/creditcard_payment.html) に伴い、領収書をしばらく [Square] で運用していましたが、利用実績がないこともあり電子領収書のシステムを [Loyverse] に戻します。
+[クレジットカード決済導入]({{site.baseurl}}/creditcard_payment.html) に伴い、電子を領収書をしばらく [Square] で運用していましたが、クレジットカードの利用実績がないこともあり、電子領収書のシステムを [Loyverse] に戻します。
 
 以下のいずれかのドメインから領収書が発行されますので、電子メールのフィルタリング設定などを見直すようお願いします。
 
