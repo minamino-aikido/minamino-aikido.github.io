@@ -12,5 +12,4 @@ title: Link
 
 ## その他
 
-* [八王子市合気道連盟 みなみ野教室 Facebookページ](https://www.facebook.com/aikido.minamino/)
 * [八王子市合気道連盟 みなみ野教室 Twitter](https://twitter.com/AikidoMinamino)
