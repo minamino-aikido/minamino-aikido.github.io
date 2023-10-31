@@ -27,7 +27,7 @@ description: 合気道の帯の結び方を解説します。
 
 図ではわかりにくい方向けに、YouTube にある参考になる動画をいくつかあげておきます。
 
-子供に巻いて上げる場合の手順は以下の動画がわかりやすいです。
+子供に巻いてあげる場合の手順は以下の動画がわかりやすいです。
 
 <iframe class="youtube" src="https://www.youtube.com/embed/OjQt9FALJ5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
