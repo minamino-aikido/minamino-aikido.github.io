@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AikidoMinamino
 github_username:  minamino-aikido
-facebook_username: aikido.minamino
+#facebook_username: aikido.minamino
 timezone: Asia/Tokyo
 paginate: 6
 tagline: 入門・初心者向け「市民のための合気道教室」
