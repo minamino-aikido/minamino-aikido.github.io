@@ -7,6 +7,6 @@ title: 連絡先
 
 見学のご希望、会員の方の出欠の連絡などは以下で受け付けています。<br />
 
+* E-mail: minamino@seishin-kan.com &larr;推奨
 * 電話/Tel（[清心館道場](http://www.seishin-kan.com/)で受付）: 042-675-6808
-* E-mail: minamino@seishin-kan.com
 * [Twitter](https://twitter.com/)で、[@AikidoMinamino](https://twitter.com/AikidoMinamino)にDirect Messageを送付
