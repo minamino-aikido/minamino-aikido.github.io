@@ -17,6 +17,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+#
+# Upload management flag: a
 
 title: "八王子市合気道連盟 みなみ野教室"
 email: minamino@seishin-kan.com
