@@ -41,7 +41,7 @@ embed_google_calendar: yes
 google_calendar_url: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=240&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=minamino.aikido%40gmail.com&amp;color=%231B887A&amp;ctz=Asia%2FTokyo
 embed_amazon_ads: no
 amazon_ad_urls: []
-list_title: "お知らせ / コラム"
+post_list_title: "お知らせ / コラム"
 favicon: "/favicon.svg"
 
 # Build settings
