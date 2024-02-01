@@ -3,7 +3,7 @@ layout: page
 title: 入会案内
 ---
 
-<img alt="right:座りの呼吸" style="width:40%;margin-top:0" src="{{'assets/img/20231015_Enbu03.jpg'|relative_url}}">
+{% include image.html url="assets/img/20231015_Enbu03.jpg" width="40%" class="right" %}
 
 本教室は公益財団法人合気会に所属し、NPO法人八王子市体育協会に加盟する八王子市合気道連盟が主催し、八王子市における合気道の普及のために開催する入門・初心者向けの合気道教室です。
 
@@ -38,7 +38,7 @@ title: 入会案内
 
 [Google Calendar](https://calendar.google.com/calendar/embed?src=minamino.aikido%40gmail.com) で予定を稽古共有していますのでそちらもご利用ください。
 
-関連記事: [合気道教室の予定を自分のGoogle Calendarに追加する方法]({{site.baseurl}}{% post_url 2017-11-26-google-calendar %})
+関連記事: [合気道教室の予定を自分のGoogle Calendarに追加する方法]({% post_url 2017-11-26-google-calendar %})
 
 ## 稽古場所
 
@@ -57,7 +57,7 @@ title: 入会案内
 中学生は大人クラス・子供クラスどちらで稽古しても構いませんが、どちらかというと大人クラスで稽古することをおすすめします。
 
 子供に合気道を習わせようとする親御さんは以下の記事をご一読下さい：
-* [子供が合気道を学ぶことについて]({{site.baseurl}}{% post_url 2021-04-29-aikido-for-kids %})
+* [子供が合気道を学ぶことについて]({% post_url 2021-04-29-aikido-for-kids %})
 
 ## <span id="fee">費用</span>
 
@@ -91,7 +91,7 @@ title: 入会案内
 |一般（上記以外）|1,850円|
 
 関連記事:
-* [スポーツ安全保険について]({{site.baseurl}}{% post_url 2022-03-08-insurance %})
+* [スポーツ安全保険について]({% post_url 2022-03-08-insurance %})
 
 ### <span id="lesson_fee">運営費（レッスン費用）</span>
 
@@ -144,9 +144,9 @@ title: 入会案内
 道着は [楽天市場](http://goo.gl/MY5QuT) など、もっと安く手に入るオンラインショップもありますのでそちらもご検討ください。
 
 関連記事：
-* [合気道をするときの服装について]({{site.baseurl}}{% post_url 2017-04-02-blog-post %})
+* [合気道をするときの服装について]({% post_url 2017-04-02-blog-post %})
 * [おすすめの道着]({{'recommended_dogi.html' | relative_url}})
-* [帯の結び方について]({{site.baseurl}}{% post_url 2021-05-15-how-to-tie-obi %})
+* [帯の結び方について]({% post_url 2021-05-15-how-to-tie-obi %})
 
 ## 一般向け昇級審査
 

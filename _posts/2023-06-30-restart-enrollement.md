@@ -1,10 +1,10 @@
 ---
 title: 子供クラスの新規会員受付を再開します
-image: https://1.bp.blogspot.com/-NoOb3CBukeM/YIWNAVxiJAI/AAAAAAAAkBI/N2MzgLQ0ve8bQCtXW9ydo7Z8VkHaSPLbwCLcBGAsYHQ/s320/application_open.jpg
+image: /assets/img/application_open.jpg
 description: 稽古参加人数に余裕ができてきたため、子供クラス新規会員の受付を再開します
 ---
 
-![right:演武](https://1.bp.blogspot.com/-NoOb3CBukeM/YIWNAVxiJAI/AAAAAAAAkBI/N2MzgLQ0ve8bQCtXW9ydo7Z8VkHaSPLbwCLcBGAsYHQ/s320/application_open.jpg)
+![right:演武](/assets/img/application_open.jpg)
 
 子供クラスの人数は、コロナウイルス対策もあり人数を限定してきました。
 

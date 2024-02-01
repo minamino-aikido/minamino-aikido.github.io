@@ -3,7 +3,7 @@ layout: page
 title: 連絡先
 ---
 
-<img alt="right:Contacts" style="width:50%;margin-top:0" src="{{'assets/img/post.jpg'|relative_url}}">
+{% include image.html url="assets/img/post.jpg" width="50%" class="right" %}
 
 見学のご希望、会員の方の出欠の連絡などは以下で受け付けています。<br />
 
