@@ -2,7 +2,7 @@
 layout: page
 title: Site Map
 ---
-<h2><a href="{{ index.html | relative_url }}">トップページ</a></h2>
+<h2><a href="{{'/index.html'|relative_url}}">トップページ</a></h2>
 
 <h2>ページ一覧</h2>
 
@@ -11,7 +11,7 @@ title: Site Map
   {% for path in paths %}
   {%  assign my_page = site.pages | where: "path", path | first %}
   {%  if my_page.title %}
-  <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+  <li><a href="{{my_page.url|relative_url}}">{{my_page.title|escape}}</a></li>
   {%  endif %}
   {% endfor %}
 </ul>
@@ -20,6 +20,6 @@ title: Site Map
 
 <ul>
   {% for post in site.posts %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+  <li><a href="{{post.url|relative_url}}">{{post.title|escape}}</a></li>
   {% endfor %}
 </ul>
