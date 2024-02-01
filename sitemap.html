@@ -2,10 +2,9 @@
 layout: page
 title: Site Map
 ---
+<h2><a href="{{ index.html | relative_url }}">トップページ</a></h2>
 
-<h2><a href="{{site.baseurl}}{% link index.html %}">Top Page</a></h2>
-
-<h2>List of Pages</h2>
+<h2>ページ一覧</h2>
 
 <ul>
   {% assign paths = site.pages | map: "path" %}
@@ -17,7 +16,7 @@ title: Site Map
   {% endfor %}
 </ul>
 
-<h2>Blog Posts</h2>
+<h2>お知らせ / コラム</h2>
 
 <ul>
   {% for post in site.posts %}

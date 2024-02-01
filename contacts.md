@@ -3,10 +3,13 @@ layout: page
 title: 連絡先
 ---
 
-![right:Contacts](https://1.bp.blogspot.com/-ZlJ7SarWx9M/YIVSLw67e0I/AAAAAAAAkAs/BJJQhZTGUs4Y1TzXVOGWVfbcUHWv0RLEwCLcBGAsYHQ/s320/computer_email.png)
+<img alt="right:Contacts" style="width:50%;margin-top:0" src="{{'assets/img/post.jpg'|relative_url}}">
 
 見学のご希望、会員の方の出欠の連絡などは以下で受け付けています。<br />
 
-* E-mail: minamino@seishin-kan.com &larr;推奨
-* 電話/Tel（[清心館道場](http://www.seishin-kan.com/)で受付）: 042-675-6808
-* [Twitter](https://twitter.com/)で、[@AikidoMinamino](https://twitter.com/AikidoMinamino)にDirect Messageを送付
+### 推奨
+- E-mail: minamino@seishin-kan.com
+
+### その他の連絡手段
+- Tel: 042-675-6808<br>※[清心館道場](http://www.seishin-kan.com/)で受付
+- [Twitter DM](https://help.twitter.com/ja/using-x/direct-messages): [@AikidoMinamino](https://www.twitter.com/messages/compose?recipient_id=AikidoMinamino)

@@ -3,10 +3,7 @@ layout: page
 title: 入会案内
 ---
 
-<!--
-![right](https://1.bp.blogspot.com/-_Jlv9EAaJBI/WM1ijvCucOI/AAAAAAAAHyk/YWT2KHEVKAA0iZjMzJ3XS4CSwABlvJtSgCEw/s320/kids_aikido.png)
--->
-<img style="display:block;float:right;width:40%;margin:30px;" src="/assets/img/20231015_Enbu03.jpg">
+<img alt="right:座りの呼吸" style="width:40%;margin-top:0" src="{{'assets/img/20231015_Enbu03.jpg'|relative_url}}">
 
 本教室は公益財団法人合気会に所属し、NPO法人八王子市体育協会に加盟する八王子市合気道連盟が主催し、八王子市における合気道の普及のために開催する入門・初心者向けの合気道教室です。
 
@@ -148,7 +145,7 @@ title: 入会案内
 
 関連記事：
 * [合気道をするときの服装について]({{site.baseurl}}{% post_url 2017-04-02-blog-post %})
-* [おすすめの道着]({{site.baseurl}}{% post_url 2022-09-11-recommended-dogi %})
+* [おすすめの道着]({{'recommended_dogi.html' | relative_url}})
 * [帯の結び方について]({{site.baseurl}}{% post_url 2021-05-15-how-to-tie-obi %})
 
 ## 一般向け昇級審査
