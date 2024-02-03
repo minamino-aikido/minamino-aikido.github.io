@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Link
+title: リンク集
 ---
 
 ## 八王子市合気道連盟加盟道場
@@ -18,5 +18,5 @@ title: Link
 
 ### 合気道以外
 
-* [minamino-aikido](https://github.com/aikige/minamino-aikido) &mdash; このサイトは [Jekyll](https://jekyllrb.com/) というソフトウェアで構築していますが、その際に利用しているテーマは GitHub で公開しています。
+* [minamino-aikido](https://github.com/aikige/minamino-aikido) &mdash; このサイトは [Jekyll](https://jekyllrb.com/) というソフトウェアで構築しています。その際に利用しているテーマを GitHub で公開しています。
 * [OpenStreetMap](https://www.openstreetmap.org/) &mdash; このサイトに記載されている "&copy; OpenStreetMap contributors" の記載が入っている地図は OpenStreetMap から取得した地図を加工したものです。地図の利用条件等については同サイトの [著作権とライセンス](https://www.openstreetmap.org/copyright/ja) のページを参照してください。
