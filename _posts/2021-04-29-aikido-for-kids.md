@@ -4,11 +4,11 @@ image: https://1.bp.blogspot.com/-cFvXllNPsNY/YIVJvJYg-5I/AAAAAAAAkAY/4_emSX0p5S
 description: 合気道には様々な効用がありますが、子供にとっては向き不向きが強く分かれる種類の武道ですので、保護者の方は、お子様が稽古を楽しめているか時々ご確認ください。
 ---
 
-※この記事は、本教室の指導者の私見であり、合気道の一般論では無いのでご注意ください。
+<div class="warning">この記事は、本教室の指導者の私見であり、合気道の一般論では無いのでご注意ください。</div>
 
 ![right:子供の演武](https://1.bp.blogspot.com/-cFvXllNPsNY/YIVJvJYg-5I/AAAAAAAAkAY/4_emSX0p5SUV9mw0YyQ_uBSJ1aUyhcw-wCPcBGAsYHg/w400-h300/IMG_Gothic_20210425_193712_processed%257E2.jpg)
 
-## はじめに
+<h2 style="margin-top:0">はじめに</h2>
 
 合気道には様々な効用がありますが、子供にとっては向き不向きが強く分かれる種類の武道ですので、
 保護者の方は、お子様が稽古を楽しめているか時々ご確認ください。
