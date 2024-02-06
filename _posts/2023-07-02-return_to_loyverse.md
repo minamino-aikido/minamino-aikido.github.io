@@ -5,11 +5,11 @@ image: /assets/img/loyverse-dashboard-iphone.png
 [Square]:https://squareup.com
 [Loyverse]:https://loyverse.com/jp
 
-<img style="width:50%" src="/assets/img/loyverse-dashboard-iphone.png">
+{% include image.html url="/assets/img/loyverse-dashboard-iphone.png" width="50%" class="right" %}
 
 [クレジットカード決済導入]({% post_url 2022-05-05-change_receipt_to_square %}) に伴い、電子を領収書をしばらく [Square] で運用していましたが、クレジットカードの利用実績がないこともあり、電子領収書のシステムを [Loyverse] に戻します。
 
-以下のいずれかのドメインから領収書が発行されますので、電子メールのフィルタリング設定などを見直すようお願いします。
+以下のアドレスから領収書が発行されますので、電子メールのフィルタリング設定などを見直すようお願いします。
 
 * `receipts@loyverse.com`
 
