@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 #
-# Upload management flag: b
+# Upload management flag: c
 
 title: "八王子市合気道連盟 みなみ野教室"
 email: minamino@seishin-kan.com
