@@ -26,3 +26,13 @@ blockquote {
 .site-title {
   word-break: keep-all;
 }
+
+a.button {
+  display: block;
+  width: fit-content;
+  margin: 10px;
+  background-color: $brand-color;
+  padding: 5px 10px;
+  color: white;
+  border-radius: 10px;
+}
