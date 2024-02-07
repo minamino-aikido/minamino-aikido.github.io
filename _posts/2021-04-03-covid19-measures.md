@@ -2,12 +2,6 @@
 layout: post
 title: 新型コロナウイルス対応について
 date: '2021-04-03T01:23:00.008+09:00'
-author: T.A
-tags: 
-modified_time: '2021-04-15T19:18:43.243+09:00'
-thumbnail: https://1.bp.blogspot.com/-36JFMZJkRzQ/YGb7rmCVUII/AAAAAAAAjls/PJqguHshxvEO40z9sIOTRk0ctQVN1B1pQCLcBGAsYHQ/s72-c/judo_boy_w_mask.jpg
-blogger_id: tag:blogger.com,1999:blog-5514555618817543888.post-4130777549647462210
-blogger_orig_url: https://minamino-aikido.blogspot.com/2021/04/blog-post.html
 image: https://1.bp.blogspot.com/-36JFMZJkRzQ/YGb7rmCVUII/AAAAAAAAjls/PJqguHshxvEO40z9sIOTRk0ctQVN1B1pQCLcBGAsYHQ/s320/judo_boy_w_mask.jpg
 description: 東京都に対する緊急事態宣言の発出に伴い、緊急事態宣言中の稽古は中止とします。
 ---
