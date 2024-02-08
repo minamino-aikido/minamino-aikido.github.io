@@ -3,7 +3,7 @@ layout: page
 title: 合気道について
 ---
 
-![呼吸投げ](https://1.bp.blogspot.com/-7WHYOxqmi0o/WMTLYdfuflI/AAAAAAAAHto/gUKkja2-6AIUis4T0Qb95OFdv8xrcsFGACLcB/s640/Kokyunage_201610.JPG)
+{%include image.html url="/assets/img/Kokyunage_201610.JPG"%}
 
 ## 合気道の特色
 
@@ -42,7 +42,7 @@ title: 合気道について
 
 ## 市民のための合気道教室の目標
 
-<img alt="right:演武" style="width:30%;margin-top:0;" src="/assets/img/20231015_Enbu02.jpg">
+{%include image.html url="/assets/img/20231015_Enbu02.jpg" width="30%" class="right"%}
 
 これらの特徴は、市民の健康増進に有益であるため、八王子市合気道連盟では中学校の武道場などの公共施設を利用して入門者・初心者レベル向けの稽古行うことを通じてみなさんの健康に寄与しながら、合気道の魅力を伝えて行くことを目標としています。
 

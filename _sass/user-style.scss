@@ -10,6 +10,7 @@ $icon-memo-AAA: url("data:image/svg+xml,<svg style='fill:%23AAA' version='1.1' i
   padding: 10px;
   border-radius: 10px;
   padding-left: 36px;
+  margin: 15px 0;
 }
 .memo {
   background-size: 20px;
@@ -44,4 +45,9 @@ a.button {
   padding: 5px 10px;
   color: white;
   border-radius: 10px;
+}
+
+.first {
+  /* usually used with heading */
+  margin-top: $spacing-unit / 2 !important;
 }

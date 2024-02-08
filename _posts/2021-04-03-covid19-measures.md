@@ -2,7 +2,7 @@
 layout: post
 title: 新型コロナウイルス対応について
 date: '2021-04-03T01:23:00.008+09:00'
-image: https://1.bp.blogspot.com/-36JFMZJkRzQ/YGb7rmCVUII/AAAAAAAAjls/PJqguHshxvEO40z9sIOTRk0ctQVN1B1pQCLcBGAsYHQ/s320/judo_boy_w_mask.jpg
+image: /assets/img/judo_boy_w_mask.jpg
 description: 東京都に対する緊急事態宣言の発出に伴い、緊急事態宣言中の稽古は中止とします。
 ---
 
@@ -12,7 +12,7 @@ description: 東京都に対する緊急事態宣言の発出に伴い、緊急�
 以下の情報は以前の対応です。
 </p>
 
-![right](https://1.bp.blogspot.com/-36JFMZJkRzQ/YGb7rmCVUII/AAAAAAAAjls/PJqguHshxvEO40z9sIOTRk0ctQVN1B1pQCLcBGAsYHQ/s400/judo_boy_w_mask.jpg)
+{% include image.html url="/assets/img/judo_boy_w_mask.jpg" class="right" %}
 
 **東京都に対する緊急事態宣言の発出に伴い、緊急事態宣言中の稽古は中止とします。<br />
 2021年5月1日から2021年6月19日の間、稽古は全てお休みとなりますのでご注意ください。**
@@ -63,7 +63,7 @@ description: 東京都に対する緊急事態宣言の発出に伴い、緊急�
 
 ## アルコール消毒用の布巾
 
-![right](https://1.bp.blogspot.com/-evEN6atFb3A/YHHrEzvgRmI/AAAAAAAAj0w/PDjFvDMo9qUxhJhmg2dZJWmiiif18-MMQCPcBGAsYHg/s320/IMG20210410151452.jpg)
+{% include image.html url="/assets/img/IMG20210410_wet_wipe.jpg" class="right" %}
 
 畳などの消毒には、アルコール消毒ができるそうじシートを利用していますが、
 厚生労働省の [ガイドライン](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/syoudoku_00001.html)
