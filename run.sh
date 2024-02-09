@@ -9,4 +9,5 @@ while [ $# -ge 1 ]; do
 	fi
 	shift
 done
-bundle exec jekyll serve $DRAFTS --host=$HOST_ADDR --incremental --watch --trace
+bundle install --path vendor && \
+	bundle exec jekyll serve $DRAFTS --host=$HOST_ADDR --incremental --watch --trace
