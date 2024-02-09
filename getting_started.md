@@ -6,7 +6,7 @@ title: 入会案内
 [入会手続き](#contact) \|
 [クラス分けと稽古時間](#timetable) \|
 [稽古場所](#location) \|
-[費用](#fee) ( [標準的な初期費用](#initial_cost) \| [支払い方法](#payment-method) ) \|
+[費用](#fee) \| [標準的な初期費用](#initial_cost) \| [支払い方法](#payment-method) \|
 [稽古をする際の服装](#dogi) \|
 [昇級審査](#test)
 {:.page-navi #page-navi}
@@ -69,7 +69,7 @@ title: 入会案内
 ## 費用
 {:#fee}
 
-初期費用を知りたい方は [標準的な初期費用](#initial_cost) を参照してください。
+とりあえず初期費用を知りたい方は [標準的な初期費用](#initial_cost) を参照してください。
 {:.page-navi}
 
 ### 入会金

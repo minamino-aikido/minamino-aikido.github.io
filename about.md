@@ -3,7 +3,7 @@ layout: page
 title: 合気道について
 ---
 
-{%include image.html url="/assets/img/Kokyunage_201610.JPG"%}
+{%include image.html url="/assets/img/Kokyunage_201610.JPG" width="100%"%}
 
 ## 合気道の特色
 
