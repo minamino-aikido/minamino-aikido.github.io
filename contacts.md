@@ -11,5 +11,8 @@ title: 連絡先
 - E-mail: <a href="mailto:minamino@seishin-kan.com">minamino@seishin-kan.com</a>
 
 ### その他の連絡手段
-- Tel: 042-675-6808<br>※[清心館道場](http://www.seishin-kan.com/)で受付
+- Tel/Fax: 042-675-6808<br>※[清心館道場](http://www.seishin-kan.com/)で受付
+
+<!--
 - [Twitter DM](https://help.twitter.com/ja/using-x/direct-messages): [@AikidoMinamino](https://www.twitter.com/messages/compose?recipient_id=AikidoMinamino)
+-->
