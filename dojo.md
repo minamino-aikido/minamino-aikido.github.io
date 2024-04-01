@@ -5,6 +5,7 @@ title: リンク集
 
 ## 八王子市合気道連盟加盟道場
 
+* [八王子市合気道連盟](https://sites.google.com/view/hachioji-aikido/home)
 * [武道と禅の会 清心館道場](http://www.seishin-kan.com/)
 * [合気道八王子道場](http://www.aikido.ne.jp/dojo/detail.php?id=tky01731)
 * [南大沢尾又道場](http://www6.plala.or.jp/urawaomata/)([多摩カルチャービレッジ](http://www.culture.gr.jp/detail/tama/index.html))
