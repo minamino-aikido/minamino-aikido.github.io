@@ -12,7 +12,7 @@ title: 連絡先
 
 ### その他の連絡手段
 - Tel/Fax: 042-675-6808<br>※[清心館道場](http://www.seishin-kan.com/)で受付
-- [連絡先登録用のQRコード](qr.html)
+- コンタクト登録用データ: [minamino.vcf](assets/minamino.vcf)
 
 <!--
 - [Twitter DM](https://help.twitter.com/ja/using-x/direct-messages): [@AikidoMinamino](https://www.twitter.com/messages/compose?recipient_id=AikidoMinamino)
