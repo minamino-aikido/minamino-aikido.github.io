@@ -1,6 +1,5 @@
 ---
 title: 【雑学】合気道昇級・昇段証書の文言について
-image: /assets/img/application_closed.jpg
 description: 証書の文言が段位によってどう変わるかという雑学です
 ---
 
