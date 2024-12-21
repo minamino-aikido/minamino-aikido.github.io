@@ -49,8 +49,8 @@ plugins:
 remote_theme: aikige/minamino-aikido
 header_pages:
   - about.md
-  - contacts.md
   - getting_started.md
+  - contacts.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

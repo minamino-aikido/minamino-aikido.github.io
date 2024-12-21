@@ -39,20 +39,41 @@ blockquote {
   font-style: normal;
 }
 
+h1, h2, h3 {
+  /* text-align: center; */
+}
+
 .site-title {
   word-break: keep-all;
 }
 
 a.button {
   display: block;
-  width: fit-content;
-  margin: 10px !important;
+  min-width: fit-content;
+  width: 50%;
+  text-align: center;
+  margin: 10px auto !important;
   background-color: $brand-color;
   padding: 5px 10px;
   color: white;
   border-radius: 10px;
 }
 
+table.index {
+  tr {
+    &:nth-child(even) {
+      background-color: inherit;
+    }
+  }
+  a.button { width: 100%; white-space: nowrap; }
+}
+
+table {
+  a.button { width: 100%; }
+}
+div.navi {
+  p { text-align: center; }
+}
 .first {
   /* usually used with heading */
   margin-top: $spacing-unit / 2 !important;
