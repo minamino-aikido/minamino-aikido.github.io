@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 稽古カレンダー
+image: /assets/img/calendar.jpg
+description: 稽古日程はこちらを御覧ください
 ---
 稽古は、原則として毎週土曜日に、以下の予定で実施しています。
 - 18:40-19:30 子供クラス

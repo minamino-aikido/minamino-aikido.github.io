@@ -93,3 +93,10 @@ div.navi {
   li::after { content: " | "; }
   li:last-child::after { content: none; }
 }
+
+.home-sidebar-container {
+  grid-auto-rows: 200px;
+}
+.home-sidebar-container .post-info {
+  margin-top: 90px !important;
+}

@@ -1,9 +1,14 @@
 ---
 layout: page
-title: 合気道について
+title: この教室について
+image: /assets/img/Kokyunage_201610.JPG
+description: 市民のための合気道教室について
 ---
 
 {%include image.html url="/assets/img/Kokyunage_201610.JPG" width="100%"%}
+
+[八王子市合気道連盟]:https://sites.google.com/view/hachioji-aikido/home
+本教室は[公益財団法人合気会](http://www.aikikai.or.jp/)に所属し、[NPO法人八王子市スポーツ協会](https://www.8spokyo.com/)に加盟する[八王子市合気道連盟]が主催し、八王子市における合気道の普及のために開催する **市民のための合気道教室** です。
 
 ## 合気道の特色
 
