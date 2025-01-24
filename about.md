@@ -61,4 +61,4 @@ description: 市民のための合気道教室について
 
 ## 関連記事
 
-* [子供が合気道を学ぶことについて]({% post_url 2021-04-29-aikido-for-kids %})
+- {% include link.html path="2021-04-29-aikido-for-kids.md" %}

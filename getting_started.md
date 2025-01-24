@@ -16,7 +16,7 @@ description: 稽古場所、時間、費用など
 [八王子市合気道連盟]:https://sites.google.com/view/hachioji-aikido/home
 本教室は[公益財団法人合気会](http://www.aikikai.or.jp/)に所属し、[NPO法人八王子市スポーツ協会](https://www.8spokyo.com/)に加盟する[八王子市合気道連盟]が主催し、八王子市における合気道の普及のために開催する入門・初心者向けの合気道教室です。
 
-「[この教合について](about.html)」に記載の通り、教室での稽古内容は初心者を想定したものに限定しているため、経験者の方は [八王子市合気道連盟加盟道場](dojo.html) などで稽古をされることをおすすめしています。
+「{% include link.html path="about.md" %}」に記載の通り、教室での稽古内容は初心者を想定したものに限定しているため、経験者の方は [八王子市合気道連盟加盟道場](dojo.html) などで稽古をされることをおすすめしています。
 
 {% include image.html url="assets/img/20231015_Enbu03.jpg" width="50%" %}
 
@@ -33,7 +33,7 @@ description: 稽古場所、時間、費用など
 {:.warning}
 
 体験をされる際、道着をお持ちでない方は以下の記事をご覧ください:
-* [合気道体験の際の服装について - 道着が無いときには]({% post_url 2017-04-09-wear-02 %})
+* {% include link.html path="2017-04-09-wear-02.html" %} 
 
 ## 指導者
 
@@ -63,9 +63,9 @@ description: 稽古場所、時間、費用など
 補足情報：
 * 中学生は大人クラス・子供クラスどちらで稽古しても構いませんが、どちらかというと大人クラスで稽古することをおすすめします。
 * 子供に合気道を習わせようとする親御さんは以下の記事をご一読下さい：<br>
-  [子供が合気道を学ぶことについて]({% post_url 2021-04-29-aikido-for-kids %})
+  {% include link.html path='2021-04-29-aikido-for-kids.md' %} 
 * 稽古予定は [Google Calendar](https://calendar.google.com/calendar/embed?src=minamino.aikido%40gmail.com) でも共有しています。
-  詳細については [稽古カレンダー](calendar.html) を参照してください。
+  詳細については {% include link.html path="calendar.md" %} を参照してください。
 
 ## 稽古場所
 {:#location}
@@ -113,7 +113,7 @@ description: 稽古場所、時間、費用など
 |一般（上記以外）|1,850円|
 
 関連記事:
-* [スポーツ安全保険について]({% post_url 2022-03-08-insurance %})
+* {% include link.html path='2022-03-08-insurance.md' %}
 
 ### 運営費（レッスン費用）
 {:#lesson_fee}
@@ -172,9 +172,9 @@ description: 稽古場所、時間、費用など
 道着は [楽天市場](http://goo.gl/MY5QuT) など、もっと安く手に入るオンラインショップもありますのでそちらもご検討ください。
 
 関連記事：
-* [おすすめの道着]({{'recommended_dogi.html' | relative_url}})
-* [合気道をするときの服装について]({% post_url 2017-04-02-blog-post %})
-* [帯の結び方について]({% post_url 2021-05-15-how-to-tie-obi %})
+* {% include link.html path='recommended_dogi.html' %}
+* {% include link.html path='2017-04-02-blog-post.md' %}
+* {% include link.html path='2021-05-15-how-to-tie-obi.md' %} 
 
 ## 昇級審査
 {:#test}
