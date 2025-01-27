@@ -2,6 +2,8 @@
 title: 【雑学】合気道昇級・昇段証書の文言について
 description: 証書の文言が段位によってどう変わるかという雑学です
 image: /assets/img/shosho.jpg
+tags:
+  - column
 ---
 {% include image.html url="/assets/img/shosho.jpg" width="500px" %}
 

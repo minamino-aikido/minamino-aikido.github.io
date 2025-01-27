@@ -3,6 +3,8 @@ layout: post
 title: 子供向けの足袋
 description: 寒くなってきたので足元が冷えない方法を検討中です
 image: https://hbb.afl.rakuten.co.jp/hgb/3777746a.45d5380e.3777746b.bd7736e2/?me_id=1232499&item_id=10005868&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fkyoetsu-orosiya%2Fcabinet%2F03958270%2Fimgrc0062789384.jpg%3F_ex%3D240x240&s=240x240&t=pict
+tags:
+  - dogi
 ---
 このページの画像は楽天アフィリエイトになっています。
 {:.info}

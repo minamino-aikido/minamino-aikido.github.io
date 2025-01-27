@@ -2,6 +2,8 @@
 title: 帯の結び方について
 image: /assets/img/Obi_Step5.png
 description: 合気道の帯の結び方を解説します。
+tags:
+  - dogi
 ---
 
 合気道の帯の結び方がわかりにくいという意見を時々聞きますので、わかりやすい図を作ってみました。
