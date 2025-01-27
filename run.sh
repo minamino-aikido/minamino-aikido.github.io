@@ -3,7 +3,7 @@ DRAFTS=${DRAFTS:-'--drafts'}
 HOST_ADDR=${HOST_ADDR:-'0.0.0.0'}
 while [ $# -ge 1 ]; do
 	if [ $1 = "renew" ]; then
-		rm -rf _site
+		rm -rf _site .jekyll-metadata
 	elif [ $1 = "clean" ]; then
 		DRAFTS=
 	fi
