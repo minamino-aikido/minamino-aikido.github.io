@@ -169,12 +169,17 @@ description: 稽古場所、時間、費用など
 価格は変動しますので、お問い合わせください。
 {:.info}
 
+また、冬場の寒い時期は、防寒のために道着の下にアンダーウェアを着たり、足袋などを履いたりしても構いません。
+
 道着は [楽天市場](http://goo.gl/MY5QuT) など、もっと安く手に入るオンラインショップもありますのでそちらもご検討ください。
 
 関連記事：
 * {% include link.html path='recommended_dogi.html' %}
 * {% include link.html path='2017-04-02-blog-post.md' %}
 * {% include link.html path='2021-05-15-how-to-tie-obi.md' %} 
+* {% include link.html path="2018-01-28-Tabi.html" %}
+* {% include link.html path="2023-12-04-tabi-for-children.md" %}
+* {% include link.html path="2023-12-10-5-finger-socks.md" %}
 
 ## 昇級審査
 {:#test}
