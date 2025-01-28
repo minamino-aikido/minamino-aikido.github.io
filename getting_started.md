@@ -175,11 +175,7 @@ description: 稽古場所、時間、費用など
 
 関連記事：
 * {% include link.html path='recommended_dogi.html' %}
-* {% include link.html path='2017-04-02-blog-post.md' %}
-* {% include link.html path='2021-05-15-how-to-tie-obi.md' %} 
-* {% include link.html path="2018-01-28-Tabi.html" %}
-* {% include link.html path="2023-12-04-tabi-for-children.md" %}
-* {% include link.html path="2023-12-10-5-finger-socks.md" %}
+{% include list_by_tag.html tag="dogi" %}
 
 ## 昇級審査
 {:#test}
