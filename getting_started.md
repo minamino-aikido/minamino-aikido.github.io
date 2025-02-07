@@ -6,6 +6,7 @@ description: 稽古場所、時間、費用など
 ---
 
 [見学・入会希望の方へ](#contact) \|
+[指導者](#instructor) \|
 [クラス分けと稽古時間](#timetable) \|
 [稽古場所](#location) \|
 [費用](#fee) \| [支払い方法](#payment-method) \|
@@ -36,6 +37,7 @@ description: 稽古場所、時間、費用など
 * {% include link.html path="2017-04-09-wear-02.html" %} 
 
 ## 指導者
+{:#instructor}
 
 市民のための合気道教室では[八王子市合気道連盟]加盟道場の有段者が指導を行っています。
 
