@@ -2,6 +2,7 @@
 layout: page
 title: 各種費用の改定について
 description: 連盟会費の区分が変更され、空調費が新設されます
+image: /assets/img/fee.jpg
 ---
 2025年度から、各種費用が変更されます。
 
