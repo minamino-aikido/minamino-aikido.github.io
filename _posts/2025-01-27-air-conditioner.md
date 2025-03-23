@@ -1,8 +1,11 @@
 ---
 layout: page
-title: エアコン利用についての意見を募集します
+title: エアコン利用についての意見を募集します ※締め切りました
 image: /assets/img/aircon-gemini.png
 ---
+2025年3月で意見の募集は締め切りました。
+{:.info}
+
 八王子市から、2025年4月から学校開放でエアコンが利用できるようになるというアナウンスがありました。
 
 参考: 八王子市 > [学校施設開放利用等の空調設備の利用について](https://www.city.hachioji.tokyo.jp/kurashi/kyoiku/003/006/004a/p034623.html)

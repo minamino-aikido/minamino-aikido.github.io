@@ -25,3 +25,7 @@ image: /assets/img/fee.jpg
 |大学生・各種学生|1,500円|**<u>1,000円</u>** ※高校生と統合|
 
 上記以外の区分の変更はありません。
+
+## 関連記事
+
+* {% include link.html path="2025-01-27-air-conditioner.md" %}
