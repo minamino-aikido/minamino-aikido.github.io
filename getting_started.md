@@ -87,15 +87,19 @@ description: 稽古場所、時間、費用など
 
 当教室の費用は以下のとおりです：
 
-|種別|[連盟会費](fee.html#annual_fee)（毎年）|[空調費](fee.html#aircon)（毎年）|[スポーツ安全保険](fee.html#insurance)（毎年）|[運営費](fee.html#lesson_fee)（毎回）<small>※2</small>|
-|--|--|--|--|
-|小・中学生|500円|1000円|800円|300円|
-|その他学生|1,000円|1,000円|1,850円<small>※1</small>|400円|
-|シニア（65歳以上）|1,500円|1,000円|1,200円|500円|
-|一般（上記以外）|1,500円|1,000円|1,850円|500円|
+<table>
+<tr><th rowspan="2">区分</th><th colspan="3">年度単位</th><th>毎回</th></tr>
+<tr><th><a href="fee.html#membership">連盟会費</a></th><th><a href="fee.html#aircon">空調費</a></th><th><a href="fee.html#insurance">スポーツ安全保険料</a></th><th><a href="fee.html#lesson_fee">運営費</a><small>※2</small></th></tr>
+<tr><td>小・中学生</td><td>500円</td><td>1,000円</td><td>800円</td><td>300円</td></tr>
+<tr><td>その他学生</td><td>1,000円</td><td>1,000円</td><td>1,850円<small>※1</small></td><td>400円</td></tr>
+<tr><td>シニア（65歳以上）</td><td>1,500円</td><td>1,000円</td><td>1,200円</td><td>500円</td></tr>
+<tr><td>一般（上記以外）</td><td>1,500円</td><td>1,000円</td><td>1,850円</td><td>500円</td></tr>
+</table>
 
 ※1: 学校に通っているシニアの方のスポーツ安全保険は、1,200円になります。<br>
-※2: 運営費は月単位ではなくレッスン単位です。５回分の価格で６回使える[回数券](fee.html#coupon)があります。
+※2: 運営費は月単位ではなくレッスン単位です。
+
+運営費は、５回分の価格で６回使える[回数券](fee.html#coupon)があり、ほとんどの方はこちらを利用しています。
 
 詳細は {% include link.html path="fee.md" %} をご覧ください。
 
