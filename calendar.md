@@ -10,9 +10,7 @@ description: 稽古日程はこちらを御覧ください
 
 しかし、学校施設が使えなかったり指導者の都合が悪かったりする場合はお休みになりますので、下記の Google Calendar やメール配信、X ([@AikidoMinamino](https://x.com/AikidoMinamino)) などで予定をご確認下さい。
 
-<div style="position:relative;width:80%;padding-top:70%;margin:0 auto;">
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FTokyo&src=bWluYW1pbm8uYWlraWRvQGdtYWlsLmNvbQ&color=%23009688" style="position:absolute;width:100%;height:100%;top:0;left:0;border:solid 1px #777" frameborder="0" scrolling="no"></iframe>
-</div>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FTokyo&showPrint=0&mode=AGENDA&src=bWluYW1pbm8uYWlraWRvQGdtYWlsLmNvbQ&color=%23009688" style="border:solid 1px #777" width="90%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## カレンダーを自分の Google Calendar に取り込む方法
 
