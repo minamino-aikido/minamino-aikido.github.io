@@ -2,6 +2,7 @@
 layout: page
 title: 帯を締める位置について
 image: /assets/img/koshibone.svg
+description: 道着の帯を締める位置についての参考情報です
 tags:
   - dogi
 ---
