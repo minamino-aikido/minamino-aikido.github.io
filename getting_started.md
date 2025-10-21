@@ -28,13 +28,15 @@ description: 稽古場所、時間、費用など
 見学希望の方は下記リンク先に記載の連絡先までお問い合わせください。
 [お問い合わせ]({{'contacts.html'|relative_url}}){:.button}
 
+<!--
 現在、子供クラスは定員に達したため新規入会は受け付けていません。<br>
 受付を再開した際にはホームページでお知らせします。<br>
 **大人クラスは新規入会募集中です。**
 {:.warning}
+-->
 
 体験をされる際、道着をお持ちでない方は以下の記事をご覧ください:
-* {% include link.html path="2017-04-09-wear-02.html" %} 
+* {% include link.html path="clothing_for_trial.md" %} 
 
 ## 指導者
 {:#instructor}
