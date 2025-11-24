@@ -1,9 +1,12 @@
 ---
-title: 電子領収書を Loyverse に戻します
+title: 【旧情報】電子領収書を Loyverse に戻します
 image: /assets/img/loyverse-dashboard-iphone.png
 ---
 [Square]:https://squareup.com
 [Loyverse]:https://loyverse.com/jp
+
+Loyverse の一分機能有料化に伴い、2026年1月から、電子領収書のシステムを Square に戻します。この記事は経緯の記録用に残します。
+{:.warning}
 
 {% include image.html url="/assets/img/loyverse-dashboard-iphone.png" width="50%" class="right" %}
 
