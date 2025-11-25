@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 入会案内
-image: /assets/img/20231015_Enbu03.jpg
+image: /assets/img/Enbu_20251019_02.jpg
 description: 稽古場所、時間、費用など
 ---
 
@@ -19,7 +19,7 @@ description: 稽古場所、時間、費用など
 
 「{% include link.html path="about.md" %}」に記載の通り、教室での稽古内容は初心者を想定したものに限定しているため、経験者の方は [八王子市合気道連盟加盟道場](dojo.html) などで稽古をされることをおすすめしています。
 
-{% include image.html url="assets/img/20231015_Enbu03.jpg" width="50%" %}
+{% include image.html url="assets/img/Enbu_20251019_02.jpg" width="75%" %}
 
 ## 見学・入会希望の方へ
 {:#contact}

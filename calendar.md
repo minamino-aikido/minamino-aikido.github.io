@@ -10,7 +10,7 @@ description: 稽古日程はこちらを御覧ください
 
 しかし、学校施設が使えなかったり指導者の都合が悪かったりする場合はお休みになりますので、下記の Google Calendar やメール配信、X ([@AikidoMinamino](https://x.com/AikidoMinamino)) などで予定をご確認下さい。
 
-基本的に、休みの予定に関しては予定が決まった時点で入力されますので、比較的先の情報まで記載されていますが、開催の予定は月末に次月の予定が学校から通知される運用になっているためぎりぎりにならないと反映されない点を考慮していただけると助かります。
+休みの予定は比較的先の情報まで記載されていますが、開催の予定は月末に次月の予定が学校から通知される運用になっているためぎりぎりにならないと反映されません。
 {:.info}
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FTokyo&showPrint=0&mode=AGENDA&src=bWluYW1pbm8uYWlraWRvQGdtYWlsLmNvbQ&color=%23009688" style="border:solid 1px #777" width="90%" height="600" frameborder="0" scrolling="no"></iframe>
