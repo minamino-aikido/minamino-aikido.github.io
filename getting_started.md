@@ -130,7 +130,8 @@ description: 稽古場所、時間、費用など
 道着は [楽天市場](http://goo.gl/MY5QuT) など、もっと安く手に入るオンラインショップもありますのでそちらもご検討ください。
 
 関連記事：
-* {% include link.html path='recommended_dogi.html' %}
+* {% include link.html path='dogi.md' %}
+* {% include link.html path='clothing_for_trial.md' %}
 {% include list_by_tag.html tag="dogi" %}
 
 ## 昇級審査
