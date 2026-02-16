@@ -3,6 +3,7 @@ _backup
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.ruby-version
 .DS_Store
 Gemfile.lock
 vendor
