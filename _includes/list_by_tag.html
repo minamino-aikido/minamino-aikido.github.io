@@ -1,4 +1,9 @@
 <ul>
+  {%- for page in site.pages -%}
+  {%-   if page.tags contains include.tag -%}
+  <li><a href="{{page.url}}">{{page.title}}</a></li>
+  {%-   endif -%}
+  {%- endfor -%}
   {%- for post in site.posts -%}
   {%-   if post.tags contains include.tag -%}
   <li><a href="{{post.url}}">{{post.title}}</a></li>

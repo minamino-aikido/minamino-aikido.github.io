@@ -1,10 +1,10 @@
 ---
 title: 2026年度からスポーツ安全保険の費用が変わります
-image: /assets/img/ojigi_man.png
+image: /assets/img/supo_an.png
 description: 次年度より、安全保険の費用が上がります。
 ---
 
-{% include image.html url="assets/img/ojigi_man.png" width="100px" %}
+{% include image.html url="assets/img/supo_an.png" %}
 
 スポーツ安全協会から、2026年度（年度は4月開始）より保険料が変更になる旨通知がありました。
 
@@ -15,4 +15,4 @@ description: 次年度より、安全保険の費用が上がります。
 それ以外の区分の費用は変わりません。
 
 関連記事:
-* {% include link.html path='fee.md' %}
+* {% include link.html path='insurance.md' %}

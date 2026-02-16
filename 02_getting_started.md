@@ -17,7 +17,7 @@ description: 稽古場所、時間、費用など
 [八王子市合気道連盟]:https://sites.google.com/view/hachioji-aikido/home
 本教室は[公益財団法人合気会](http://www.aikikai.or.jp/)に所属し、[NPO法人八王子市スポーツ協会](https://www.8spokyo.com/)に加盟する[八王子市合気道連盟]が主催し、八王子市における合気道の普及のために開催する入門・初心者向けの合気道教室です。
 
-「{% include link.html path="about.md" %}」に記載の通り、教室での稽古内容は初心者を想定したものに限定しているため、経験者の方は [八王子市合気道連盟加盟道場](dojo.html) などで稽古をされることをおすすめしています。
+「{% include link.html path="01_about.md" %}」に記載の通り、教室での稽古内容は初心者を想定したものに限定しているため、経験者の方は [八王子市合気道連盟加盟道場](dojo.html) などで稽古をされることをおすすめしています。
 
 {% include image.html url="assets/img/Enbu_20251019_02.jpg" width="75%" %}
 
@@ -36,7 +36,7 @@ description: 稽古場所、時間、費用など
 -->
 
 体験をされる際、道着をお持ちでない方は以下の記事をご覧ください:
-* {% include link.html path="clothing_for_trial.md" %} 
+* {% include link.html path="12_clothing_for_trial.md" %} 
 
 ## 指導者
 {:#instructor}
@@ -69,7 +69,7 @@ description: 稽古場所、時間、費用など
 * 子供に合気道を習わせようとする親御さんは以下の記事をご一読下さい：<br>
   {% include link.html path='2021-04-29-aikido-for-kids.md' %} 
 * 稽古予定は [Google Calendar](https://calendar.google.com/calendar/embed?src=minamino.aikido%40gmail.com) でも共有しています。
-  詳細については {% include link.html path="calendar.md" %} を参照してください。
+  詳細については {% include link.html path="04_calendar.md" %} を参照してください。
 
 ## 稽古場所
 {:#location}
@@ -103,7 +103,7 @@ description: 稽古場所、時間、費用など
 
 運営費は、５回分の価格で６回使える[回数券](fee.html#coupon)があり、ほとんどの方はこちらを利用しています。
 
-詳細は {% include link.html path="fee.md" %} をご覧ください。
+詳細は {% include link.html path="20_fee.md" %} をご覧ください。
 
 ### 支払い方法
 {:#payment-method}
@@ -127,11 +127,9 @@ description: 稽古場所、時間、費用など
 
 また、冬場の寒い時期は、防寒のために道着の下にアンダーウェアを着たり、足袋などを履いたりしても構いません。
 
-道着は [楽天市場](http://goo.gl/MY5QuT) など、もっと安く手に入るオンラインショップもありますのでそちらもご検討ください。
+詳細は {% include link.html path='10_dogi.md' %} をご覧ください。
 
 関連記事：
-* {% include link.html path='dogi.md' %}
-* {% include link.html path='clothing_for_trial.md' %}
 {% include list_by_tag.html tag="dogi" %}
 
 ## 昇級審査
