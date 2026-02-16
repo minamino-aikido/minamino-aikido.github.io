@@ -15,4 +15,4 @@ description: 次年度より、安全保険の費用が上がります。
 それ以外の区分の費用は変わりません。
 
 関連記事:
-* {% include link.html path='insurance.md' %}
+* {% include link.html path='30_insurance.md' %}

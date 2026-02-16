@@ -52,7 +52,7 @@ image: /assets/img/20231015_Enbu03.jpg
 継続的に稽古をされる方は [スポーツ安全保険](http://www.sportsanzen.org/hoken/) への入会を必須としています。<br>
 
 関連記事:
-* {% include link.html path='insurance.md' %}
+* {% include link.html path='30_insurance.md' %}
 
 ## 3. レッスンごとに発生する費用
 
