@@ -12,5 +12,5 @@ while [ $# -ge 1 ]; do
 	shift
 done
 bundle config set path 'vendor'
-bundle install && \
-	bundle exec jekyll serve $DRAFTS --host=$HOST_ADDR --incremental --watch --trace
+bundle install || exit $?
+bundle exec jekyll serve $DRAFTS --host=$HOST_ADDR --incremental --watch --trace
