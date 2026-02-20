@@ -4,7 +4,7 @@ image: /assets/img/supo_an.png
 description: 次年度より、安全保険の費用が上がります。
 ---
 
-{% include image.html url="assets/img/supo_an.png" %}
+{% include image.html url="assets/img/supo_an.png" width="60%" %}
 
 スポーツ安全協会から、2026年度（年度は4月開始）より保険料が変更になる旨通知がありました。
 
