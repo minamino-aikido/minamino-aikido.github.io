@@ -6,7 +6,7 @@ description: 子供クラス新規会員の受付を再開します
 募集人数に変化があった場合は適宜このページを更新します。
 {:.info}
 
-![right:演武](/assets/img/application_open.jpg)
+{% include image.html url="assets/img/application_open.jpg" width="40%" %}
 
 子供向けの合気道教室は指導者が一人で対応している関係で人数を8名に制限しています。
 
