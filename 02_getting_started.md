@@ -129,9 +129,6 @@ description: 稽古場所、時間、費用など
 
 詳細は {% include link.html path='10_dogi.md' %} をご覧ください。
 
-関連記事：
-{% include list_by_tag.html tag="dogi" %}
-
 ## 昇級審査
 {:#test}
 

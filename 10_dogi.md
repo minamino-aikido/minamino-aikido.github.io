@@ -58,9 +58,13 @@ tags:
 <figure><a href="https://hb.afl.rakuten.co.jp/ichiba/3904499c.2ef36fc9.3904499d.1eed47f3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukuske%2F11_3297%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/3904499c.2ef36fc9.3904499d.1eed47f3/?me_id=1208128&item_id=10000021&pc=https%3A%2F%2Fimage.rakuten.co.jp%2Ffukuske%2Fcabinet%2Fimg09%2F11-3297-s3.jpg%3F_ex%3D300x300&s=300x300&t=pict" border="0" style="margin:2px" alt="" title=""></a><figcaption>綿の足袋の例</figcaption></figure>
 
 一般的な靴下は滑るのと、強度が不足しており危険なので、原則禁止しとますが、運動向けに底に滑り止めがついている種類の靴下であれば、足袋の代替品として稽古中に履いても良いものとします。
+形は足袋型か、５本指のものがズレづらいのでおすすめです。
 ただし、靴下は強度が足りないので短期で擦り切れる可能性が高いことをご理解ください。
 
 <figure><a href="https://hb.afl.rakuten.co.jp/ichiba/37870714.8ed62a01.37870715.8aeba0bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenbee%2Fso7%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/37870714.8ed62a01.37870715.8aeba0bb/?me_id=1208291&item_id=10000997&pc=https%3A%2F%2Fimage.rakuten.co.jp%2Fkenbee%2Fcabinet%2Fso7%2Fso7_grip.jpg%3F_ex%3D300x300&s=300x300&t=pict" border="0" style="margin:2px" alt="" title=""></a><figcaption>使えそうな靴下の例</figcaption></figure>
 
 参考: {% include link.html path='2023-12-10-5-finger-socks.md' %}
 {:.info}
+
+## 関連記事
+{% include list_by_tag.html tag='dogi' %}

@@ -4,7 +4,7 @@ image: /assets/img/supo_an.png
 description: 稽古の際に必要としている保険に関して解説します。
 ---
 
-![center](/assets/img/supo_an.png)
+{% include image.html url="assets/img/supo_an.png" width="60%" %}
 
 入会案内にも記載の通り、本教室では [公益財団法人 スポーツ安全協会](https://www.sportsanzen.org/) の提供している [スポーツ安全保険](https://www.sportsanzen.org/hoken/) への加入を必須としています。
 
