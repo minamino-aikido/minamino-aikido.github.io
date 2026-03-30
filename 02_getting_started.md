@@ -84,7 +84,8 @@ description: 稽古場所、時間、費用など
 ## 費用
 {:#fee}
 
-2025年4月1日より、費用が改定されました。
+2025年4月1日より、費用の区分が改定されました。<br>
+2026年4月1日より、スポーツ安全保険と、空調費が改定されました。
 {:.warning}
 
 当教室の費用は以下のとおりです：
@@ -92,10 +93,10 @@ description: 稽古場所、時間、費用など
 <table>
 <tr><th rowspan="2">区分</th><th colspan="3">年度単位</th><th>毎回</th></tr>
 <tr><th><a href="fee.html#membership">連盟会費</a></th><th><a href="fee.html#aircon">空調費</a></th><th><a href="fee.html#insurance">スポーツ安全保険料</a></th><th><a href="fee.html#lesson_fee">運営費</a><small>※2</small></th></tr>
-<tr><td>小・中学生</td><td>500円</td><td>1,000円</td><td>800円</td><td>300円</td></tr>
-<tr><td>その他学生</td><td>1,000円</td><td>1,000円</td><td>1,850円<small>※1</small></td><td>400円</td></tr>
-<tr><td>シニア（65歳以上）</td><td>1,500円</td><td>1,000円</td><td>1,200円</td><td>500円</td></tr>
-<tr><td>一般（上記以外）</td><td>1,500円</td><td>1,000円</td><td>1,850円</td><td>500円</td></tr>
+<tr><td>小・中学生</td>         <td>500円</td>  <td>500円</td><td>800円</td><td>300円</td></tr>
+<tr><td>その他学生</td>         <td>1,000円</td><td>500円</td><td>2,000円<small>※1</small></td><td>400円</td></tr>
+<tr><td>シニア（65歳以上）</td> <td>1,500円</td><td>500円</td><td>1,200円</td><td>500円</td></tr>
+<tr><td>一般（上記以外）</td>   <td>1,500円</td><td>500円</td><td>2,000円</td><td>500円</td></tr>
 </table>
 
 ※1: 学校に通っているシニアの方のスポーツ安全保険は、1,200円になります。<br>

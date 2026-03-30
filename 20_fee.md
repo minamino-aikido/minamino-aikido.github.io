@@ -6,7 +6,7 @@ image: /assets/img/20231015_Enbu03.jpg
 当教室でかかる費用の詳細をご紹介します。
 
 2025年4月1日より、連盟会費が改定されました。<br>
-2026年4月1日より、保険料が改定されます。
+2026年4月1日より、保険料と空調費が改定されました。
 {:.warning}
 
 ## 1. 入会金
@@ -28,10 +28,10 @@ image: /assets/img/20231015_Enbu03.jpg
 <table>
   <tr><th rowspan="2">区分</th> <th rowspan="2">合計</th><th rowspan="6"></th><th colspan="3">内訳</th></tr>
   <tr>                                                                              <th>連盟会費</th> <th>空調費</th> <th>スポーツ安全保険料</th></tr>
-  <tr><td>小・中学生</td>       <td>2,300円</td>                                    <td>500円</td>    <td>1,000円</td><td>800円</td></tr>
-  <tr><td>その他学生</td>       <td>3,850円<br><small>2026年度より4,000円</small></td><td>1,000円</td>  <td>1,000円</td><td>1,850円<br><small>2026年度より2,000円</small></td></tr>
-  <tr><td>シニア（65歳以上）</td><td>3,700円</td>                                   <td>1,500円</td>  <td>1,000円</td><td>1,200円</td></tr>
-  <tr><td>一般（上記以外）</td> <td>4,350円<br><small>2026年度より4,500円</small></td>                                    <td>1,500円</td>  <td>1,000円</td><td>1,850円<br><small>2026年度より2,000円</small></td></tr>
+  <tr><td>小・中学生</td>       <td>1,800円</td>                                    <td>500円</td>    <td>500円</td><td>800円</td></tr>
+  <tr><td>その他学生</td>       <td>3,500円</td>                                    <td>1,000円</td>  <td>500円</td><td>2,000円</td></tr>
+  <tr><td>シニア（65歳以上）</td><td>3,200円</td>                                   <td>1,500円</td>  <td>500円</td><td>1,200円</td></tr>
+  <tr><td>一般（上記以外）</td> <td>4,000円</td>                                    <td>1,500円</td>  <td>500円</td><td>2,000円</td></tr>
 </table>
 
 ### 2.1. 連盟会費
@@ -101,9 +101,9 @@ image: /assets/img/20231015_Enbu03.jpg
 <table>
   <tr><th rowspan="2">区分</th>   <th rowspan="2">費用</th><th rowspan="6"></th><th colspan="4">内訳</th></tr>
   <tr>                                                                          <th>連盟会費</th> <th>空調費</th> <th>スポーツ安全保険料</th> <th>回数券</th></tr>
-  <tr><td>小・中学生</td>         <td>3,800円</td>                              <td>500円</td>    <td>1,000円</td><td>800円</td>              <td>1,500円</td></tr>
-  <tr><td>その他学生</td>         <td>5,850円<br><small>2026年度より6,000円</small></td>                              <td>1,000円</td>  <td>1,000円</td><td>1,850円<br><small>2026年度より2,000円</small></td>            <td>2,000円</td></tr>
-  <tr><td>シニア（65歳以上）</td> <td>6,200円</td>                              <td>1,500円</td>  <td>1,000円</td><td>1,200円</td>            <td>2,500円</td></tr>
-  <tr><td>一般（上記以外）</td>   <td>6,850円<br><small>2026年度より7,000円</small></td>                              <td>1,500円</td>  <td>1,000円</td><td>1,850円<br><small>2026年度より2,000円</small></td>            <td>2,500円</td></tr>
+  <tr><td>小・中学生</td>         <td>3,300円</td>                              <td>500円</td>    <td>500円</td>  <td>800円</td>              <td>1,500円</td></tr>
+  <tr><td>その他学生</td>         <td>5,500円</td>                              <td>1,000円</td>  <td>500円</td>  <td>2,000円</td>            <td>2,000円</td></tr>
+  <tr><td>シニア（65歳以上）</td> <td>5,700円</td>                              <td>1,500円</td>  <td>500円</td>  <td>1,200円</td>            <td>2,500円</td></tr>
+  <tr><td>一般（上記以外）</td>   <td>6,500円</td>                              <td>1,500円</td>  <td>500円</td>  <td>2,000円</td>            <td>2,500円</td></tr>
 </table>
 
