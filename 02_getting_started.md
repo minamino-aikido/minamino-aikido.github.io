@@ -92,7 +92,7 @@ description: 稽古場所、時間、費用など
 
 <table>
 <tr><th rowspan="2">区分</th><th colspan="3">年度単位</th><th>毎回</th></tr>
-<tr><th><a href="fee.html#membership">連盟会費</a></th><th><a href="fee.html#aircon">空調費</a></th><th><a href="fee.html#insurance">スポーツ安全保険料</a></th><th><a href="fee.html#lesson_fee">運営費</a><small>※2</small></th></tr>
+<tr><th><a href="20_fee.html#membership">連盟会費</a></th><th><a href="20_fee.html#aircon">空調費</a></th><th><a href="20_fee.html#insurance">スポーツ安全保険料</a></th><th><a href="20_fee.html#lesson_fee">運営費</a><small>※2</small></th></tr>
 <tr><td>小・中学生</td>         <td>500円</td>  <td>500円</td><td>800円</td><td>300円</td></tr>
 <tr><td>その他学生</td>         <td>1,000円</td><td>500円</td><td>2,000円<small>※1</small></td><td>400円</td></tr>
 <tr><td>シニア（65歳以上）</td> <td>1,500円</td><td>500円</td><td>1,200円</td><td>500円</td></tr>
