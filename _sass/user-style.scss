@@ -117,7 +117,8 @@ div.navi {
 }
 .post-title {
   @include relative-font-size(2.0);
-  color: #666;
+  color: #708090;
+  color: #515356;
 }
 .post-content {
   h2 { @include relative-font-size(1.5); }
@@ -126,6 +127,5 @@ div.navi {
 }
 h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
-  color: #469;
-  color: #555;
+  color: #444;
 }
