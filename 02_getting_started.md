@@ -92,7 +92,15 @@ description: 稽古場所、時間、費用など
 
 <table>
 <tr><th rowspan="2">区分</th><th colspan="3">年度単位</th><th>毎回</th></tr>
-<tr><th><a href="20_fee.html#membership">連盟会費</a></th><th><a href="20_fee.html#aircon">空調費</a></th><th><a href="20_fee.html#insurance">スポーツ安全保険料</a></th><th><a href="20_fee.html#lesson_fee">運営費</a><small>※2</small></th></tr>
+<tr>
+<!--
+<th><a href="20_fee.html#membership">連盟会費</a></th>
+-->
+<th>{% include link.html path="20_fee.md" id="membership" title="連盟会費" %}</th>
+<th>{% include link.html path="20_fee.md" id="aircon" title="空調費" %}</th>
+<th>{% include link.html path="20_fee.md" id="insurance" title="スポーツ安全保険料" %}</th>
+<th>{% include link.html path="20_fee.md" id="lesson_fee" title="運営費" %}</th>
+</tr>
 <tr><td>小・中学生</td>         <td>500円</td>  <td>500円</td><td>800円</td><td>300円</td></tr>
 <tr><td>その他学生</td>         <td>1,000円</td><td>500円</td><td>2,000円<small>※1</small></td><td>400円</td></tr>
 <tr><td>シニア（65歳以上）</td> <td>1,500円</td><td>500円</td><td>1,200円</td><td>500円</td></tr>
@@ -102,7 +110,7 @@ description: 稽古場所、時間、費用など
 ※1: 学校に通っているシニアの方のスポーツ安全保険は、1,200円になります。<br>
 ※2: 運営費は月単位ではなくレッスン単位です。
 
-運営費は、５回分の価格で６回使える[回数券](fee.html#coupon)があり、ほとんどの方はこちらを利用しています。
+運営費は、５回分の価格で６回使える{% include link.html path="20_fee.md" title="回数券" id="coupon" %}があり、ほとんどの方はこちらを利用しています。
 
 詳細は {% include link.html path="20_fee.md" %} をご覧ください。
 
