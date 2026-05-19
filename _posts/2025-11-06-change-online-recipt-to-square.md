@@ -8,7 +8,11 @@ description: 2026年1月から電子領収書を Square に変更します
 
 当教室では、電子領収書として [Loyverse] というシステムを利用してきましたが、会計処理に必須な機能が2025年に有料化されたことに伴い、電子領収書システムを [Square] に変更します。
 
-![Square](/assets/img/square.02.png)
+&nbsp;
+
+{% include image.html url="assets/img/Square_Logo_2025_Black.svg" width="300px" %}
+
+&nbsp;
 
 ## 変更の影響
 
