@@ -135,15 +135,25 @@ h1, h2, h3, h4, h5, h6 {
 
 .site-header {
   background: $background-color;
-  position: sticky;
+  position: fixed;
+  width: 100%;
   top: 0;
 }
 
 .site-header > .wrapper {
   justify-content: left;
+  white-space: nowrap;
+  .site-title {
+    font-size: clamp($base-font-size,2.5vw,$base-font-size * 1.5);  /* variable font */
+    line-height: $base-font-size * 1.5 * 1.25;
+  }
   @include media-query($on-2row) {
     padding-right: 55px;
   }
+}
+.page-content {
+  /* margin for fixed site-header */
+  margin-top: 62px;
 }
 :root {
   scroll-padding-top: 100px;
