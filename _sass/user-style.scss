@@ -136,7 +136,10 @@ h1, h2, h3, h4, h5, h6 {
 .site-header {
   background: $background-color;
   position: fixed;
+  /*
   width: 100%;
+  */
+  width: 100vw;
   top: 0;
 }
 
@@ -148,12 +151,25 @@ h1, h2, h3, h4, h5, h6 {
     line-height: $base-font-size * 1.5 * 1.25;
   }
   @include media-query($on-2row) {
-    padding-right: 55px;
+    padding-left: 60px;
   }
 }
 .page-content {
   /* margin for fixed site-header */
   margin-top: 62px;
+}
+.site-nav {
+  @include media-query($on-2row) {
+    text-align: left;
+    right: auto;
+    left: 15px;
+    label[for="nav-trigger"] {
+      float: left;
+    }
+    .page-link {
+      margin-left: 0;
+    }
+  }
 }
 :root {
   scroll-padding-top: 100px;
