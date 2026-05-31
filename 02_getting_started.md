@@ -90,6 +90,7 @@ description: 稽古場所、時間、費用など
 
 当教室の費用は以下のとおりです：
 
+<div class="table-container">
 <table>
 <tr><th rowspan="2">区分</th><th colspan="3">年度単位</th><th>毎回</th></tr>
 <tr>
@@ -106,6 +107,7 @@ description: 稽古場所、時間、費用など
 <tr><td>シニア（65歳以上）</td> <td>1,500円</td><td>500円</td><td>1,200円</td><td>500円</td></tr>
 <tr><td>一般（上記以外）</td>   <td>1,500円</td><td>500円</td><td>2,000円</td><td>500円</td></tr>
 </table>
+</div>
 
 ※1: 学校に通っているシニアの方のスポーツ安全保険は、1,200円になります。<br>
 ※2: 運営費は月単位ではなくレッスン単位です。

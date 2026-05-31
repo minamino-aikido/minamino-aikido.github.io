@@ -171,6 +171,10 @@ h1, h2, h3, h4, h5, h6 {
     }
   }
 }
+.table-container {
+  overflow-x: scroll;
+  th,td { white-space:nowrap; }
+}
 :root {
   scroll-padding-top: 100px;
 }
