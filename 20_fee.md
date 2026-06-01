@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 市民のための合気道教室における費用の詳細
+title: 費用の詳細
 image: /assets/img/20231015_Enbu03.jpg
 ---
 当教室でかかる費用の詳細をご紹介します。
