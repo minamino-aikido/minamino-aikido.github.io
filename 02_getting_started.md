@@ -99,7 +99,7 @@ description: 稽古場所、時間、費用など
 -->
 <th>{% include link.html path="20_fee.md" id="membership" title="連盟会費" %}</th>
 <th>{% include link.html path="20_fee.md" id="aircon" title="空調費" %}</th>
-<th>{% include link.html path="20_fee.md" id="insurance" title="スポーツ安全保険料" %}</th>
+<th>{% include link.html path="20_fee.md" id="insurance" title="スポーツ<br>安全保険料" %}</th>
 <th>{% include link.html path="20_fee.md" id="lesson_fee" title="運営費" %}</th>
 </tr>
 <tr><td>小・中学生</td>         <td>500円</td>  <td>500円</td><td>800円</td><td>300円</td></tr>

@@ -28,7 +28,7 @@ image: /assets/img/20231015_Enbu03.jpg
 <div class="table-container">
   <table>
     <tr><th rowspan="2">区分</th> <th rowspan="2">合計</th><th rowspan="6"></th><th colspan="3">内訳</th></tr>
-    <tr>                                                                              <th>連盟会費</th> <th>空調費</th> <th>スポーツ安全保険料</th></tr>
+    <tr>                                                                              <th>連盟会費</th> <th>空調費</th> <th>スポーツ<br>安全保険料</th></tr>
     <tr><td>小・中学生</td>       <td>1,800円</td>                                    <td>500円</td>    <td>500円</td><td>800円</td></tr>
     <tr><td>その他学生</td>       <td>3,500円</td>                                    <td>1,000円</td>  <td>500円</td><td>2,000円</td></tr>
     <tr><td>シニア（65歳以上）</td><td>3,200円</td>                                   <td>1,500円</td>  <td>500円</td><td>1,200円</td></tr>
@@ -108,7 +108,7 @@ image: /assets/img/20231015_Enbu03.jpg
 <div class="table-container">
   <table>
     <tr><th rowspan="2">区分</th>   <th rowspan="2">費用</th><th rowspan="6"></th><th colspan="4">内訳</th></tr>
-    <tr>                                                                          <th>連盟会費</th> <th>空調費</th> <th>スポーツ安全保険料</th> <th>回数券</th></tr>
+    <tr>                                                                          <th>連盟会費</th> <th>空調費</th> <th>スポーツ<br>安全保険料</th> <th>回数券</th></tr>
     <tr><td>小・中学生</td>         <td>3,300円</td>                              <td>500円</td>    <td>500円</td>  <td>800円</td>              <td>1,500円</td></tr>
     <tr><td>その他学生</td>         <td>5,500円</td>                              <td>1,000円</td>  <td>500円</td>  <td>2,000円</td>            <td>2,000円</td></tr>
     <tr><td>シニア（65歳以上）</td> <td>5,700円</td>                              <td>1,500円</td>  <td>500円</td>  <td>1,200円</td>            <td>2,500円</td></tr>
